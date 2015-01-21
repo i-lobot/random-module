@@ -1,0 +1,1220 @@
+{	:tokens[ßI"Analog:ETI"
+Delay;TI"A-101-9;TI"A-171-1;TI"VRG;TI"	E340;TI"
+Cloud;TI"Generator;TI"	E350;TI"Morphing;TI"Terrarium;TI"	MOTM;TI"101;TI"Noise/S&H;TI"110;TI"VCA/Ring;TI"Modulator;TI"MOTM-120;TI"MOTM-300;TI"320;TI"LFO;TI"380;TI"	Quad;TI"390;TI"
+¬µLFO;TI"
+A-172;TI"MOTM-420;TI"440;TI"LPF;TI"480;TI"
+CS-80;TI"Filter;TI"485;TI"	GX-1;TI"MOTM-490;TI"
+¬µVCF;TI"Ladder;TI"MOTM-510;TI"650;TI"MIDI-CV;TI"700;TI"	Dual;TI"Router;TI"MOTM-800;TI"A-174-1;TI"820;TI"Lag;TI"910;TI"	Mult;TI"CTG-VC;TI"
+MMF-2;TI"
+K3020;TI"VCO;TI"Autobot;TI"Triatt;TI"
+Video;TI"	Sync;TI"
+Color;TI"Encoder;TI"A-174-2;TI"Waveform;TI"Triple;TI"
+Fader;TI"&;TI"Key;TI"Blending;TI"Matrix;TI"Voltage;TI"Interface;TI"I;TI"	C102;TI"VC;TI"	C103;TI"Frequency;TI"Divider;TI"Multiplier;TI"sympleseq;TI"FourMix;TI"	Ring;TI"Mod;TI"Overdrive2;TI"
+A-175;TI"MIDI2CV;TI"
+Gated;TI"	Slew;TI"Sample;TI"	Hold;TI"16;TI"	Step;TI"Rotary;TI"Sequencer;TI"	MFOS;TI"	.shn;TI"
+Model;TI"31;TI"
+Unity;TI"Summer;TI"Source;TI"of;TI"Uncertainty;TI"	266c;TI"VCA-2P;TI"HELLFO;TI"
+A-176;TI"A-100B42;TI"6HP;TI"
+blank;TI"
+panel;TI"8HP;TI"	22HP;TI"Comparators;TI"
+Clock;TI"
+Pulse;TI"	Gate;TI"A-177-1;TI"
+Mixer;TI"1;TI"2;TI"Synthacon;TI"995;TI"Attenuators;TI"A-177-2;TI"FM;TI"JOYSTICK;TI"Turing;TI"Machine;TI"/;TI"Random;TI"Looping;TI"
+White;TI"VCADSR;TI"Din;TI"
+Logic;TI"	SD88;TI"Asteroid;TI"VCF;TI"
+K2579;TI"RS-500E;TI"
+A-178;TI"X-series;TI"
+Audio;TI"Multiplicity;TI"VI;TI"	Phat;TI"Zeroscillator;TI"V2;TI"Kraftzwerg;TI"Module;TI"SEQ-02;TI"A-111-5;TI"980;TI"
+Kobol;TI"Oscillator;TI"Blacet;TI"MX2040;TI"
+POWER;TI"
+A-179;TI"Wavetable;TI"
+TAI-4;TI"565;TI"D;TI"Quantizer;TI"Controller;TI"500-2L;TI"	Moog;TI"921;TI"Processor;TI"
+Ramps;TI"
+A-102;TI"A-180-1;TI"Single;TI"
+Other;TI"Eurorack;TI"Dotcom;TI"5U;TI"ADDAC200;TI"Multiples;TI"	Post;TI"Lawsuit;TI"
+A-181;TI"LPG;TI"AM8071;TI"Snowfall;TI"AM8705;TI"	ADSR;TI"
+Organ;TI"
+Nasty;TI"LED;TI"	Fuzz;TI"
+Power;TI"Supply;TI"AM8319;TI"A-182-1;TI"Vactrol;TI"SVF-201;TI"Loop/Env;TI"
+AC/DC;TI"System;TI"X;TI"Envelope;TI"Post-Lawsuit;TI"Lowpass;TI"Sea;TI"Devils;TI"A-183-1;TI"	292c;TI"FADER.MIX;TI"	QUAD;TI"AR;TI"GEN;TI"	Wasp;TI"Buchlidian;TI"111;TI"130;TI"156;TI"175;TI"A-183-2;TI"180;TI"185;TI"191;TI"190;TI"FSR;TI"4;TI"ASR;TI"	Quan;TI"Animal;TI"Animate;TI"A-183-3;TI"Bi-Filter;TI"	Blue;TI"
+Voice;TI"CV;TI"	CV-1;TI"or;TI"Red;TI"Control;TI"	CV-2;TI"Creature;TI"Critter;TI"A-185-1;TI"NTO;TI"Q;TI"Filters;TI"EQ;TI"
+Shift;TI"
+Gator;TI"Hex;TI"VCA;TI"Klangzeit;TI"Mayhem;TI"Obelisk;TI"
+Slope;TI"A-185-2;TI"SQP;TI"A;TI"
+Panel;TI"	Soup;TI"Kitchen;TI"Stereo;TI"
+Touch;TI"Activated;TI"Keyboard;TI"	Wave;TI"A-186-1;TI"Wilson;TI"
+Serge;TI"902;TI"VOLTAGE;TI"CONTROLLED;TI"AMPLIFIER;TI"911;TI"ENVELOPE;TI"GENERATOR;TI"994;TI"MULTIPLES;TI"	911A;TI"	DUAL;TI"TRIGGER;TI"
+DELAY;TI"912;TI"FOLLOWER;TI"914;TI"
+FIXED;TI"FILTER;TI"	BANK;TI"928;TI"SAMPLE;TI"	HOLD;TI"LOL;TI"EG;TI"A-187-1;TI"ADDAC204;TI"Mapping;TI"Anushri;TI"Primitive;TI"DIV;TI"one;TI"ten;TI"Arpeggiator;TI"odd;TI"
+three;TI"
+power;TI"fibonacci;TI"
+VD-01;TI"Videoscope;TI"
+A-103;TI"A-188-1X;TI"
+Jones;TI"O'Tool;TI"Oscilloscope;TI"Waverider;TI"BLD;TI"
+Happy;TI"Ending;TI"Kit;TI"Bridge;TI"
+ED108;TI"-;TI"ChaQuO;TI"
+SPH-2;TI"	Tthe;TI"	MVIP;TI"A-189-1;TI"Bit;TI"Modifier;TI"A-188-1Y;TI"	Borg;TI"PEGPC:;TI"PEG;TI"Parameter;TI"
+P3000;TI"	Poly;TI"	cvWS;TI"Fourmulator;TI"Digital;TI"	Lord;TI"the;TI"FSR-1T;TI"A-188-1A;TI"	CVM2;TI"CGS735;TI"Synathacon;TI"	Zeus;TI"Access;TI"	Miss;TI"10;TI"RS-220;TI"X-Y;TI"	ES-1;TI"RIBBON;TI"ADDAC001;TI"VCC;TI"A-188-1B;TI"AM8005;TI"
+Diode;TI"
+Multi;TI"	Mode;TI"LDB-1x;TI"Expansion;TI"
+Pokey;TI"	West;TI"
+Coast;TI"	Mini;TI"
+Synth;TI"	258j;TI"X-4046;TI"
+Hadsr;TI"A-188-1C;TI"Malgorithm;TI"	Mark;TI"II;TI"TSA;TI"Screener;TI"	e350;TI"Expander;TI"
+Chaos;TI"Computer;TI"SSM2044;TI"	QVAM;TI"
+TVVCA;TI"A-188-1D;TI"Bassboy-Ever;TI"ADDAC005;TI"Outputs;TI"ADDAC003;TI"Manual;TI"Inputs;TI"AM8060;TI"JP6;TI"Multi-Mode;TI"HATS909;TI"	VCA2;TI"Thomas;TI"
+Henry;TI"SN;TI"CGS734;TI"Register;TI"
+clock;TI"GMS-742;TI"A-188-2;TI"
+ED117;TI"Wavolver;TI"CGS758;TI"Utility;TI"Odyssey;TI"
+FIL-1;TI"Convulsion;TI"LVL+rm;TI"acVOKS;TI"	Four;TI"Transients;TI"Controlled;TI"Arcade;TI"Mankato;TI"VCA/Mixer;TI"Active;TI"Double-Deka;TI"Ultrasonic;TI"
+SH-NZ;TI"
+SCMBO;TI"A-190-1;TI"ADDAC205;TI"AWG;TI"Cyclotron;TI"28;TI"9;TI"DRUM-01;TI"	HH88;TI"	RS88;TI"VCO-Sub;TI"	AI-2;TI"
+A-104;TI"A-190-2;TI"Backend;TI"x-series;TI"	dual;TI"oscillator;TI"	NS-4;TI"
+Noise;TI"and;TI"S&H;TI"Addac801;TI"simple;TI"
+mixer;TI"Lamp-2;TI"	VM-1;TI"ALM001;TI"Pamela's;TI"Workout;TI"A-190-3;TI"Pro;TI"DUO;TI"RS-450;TI"AM8075SE;TI"Athena;TI"Plague;TI"Bearer;TI"v.3;TI"
+Praga;TI"	Baby;TI"
+Steps;TI"140;TI"A-190-5;TI"RS-110;TI"Multimode;TI"filter;TI"CEM3328;TI"Mutinator;TI"g0;TI"Rythmatik;TI"	Moon;TI"	Base;TI"	EG01;TI"Furthrrrr;TI"VCS;TI"Buchla;TI"158;TI"102;TI"123;TI"106;TI"OSC303MKII;TI"
+RS-90;TI"A-192-1;TI"
+RS-80;TI"
+RS-30;TI"36;TI"39;TI"
+Lunar;TI"Modulation;TI"Center;TI"VCO-LFO;TI"osc;TI"Duo;TI"	Skew;TI"SympleSEQ;TI"NeinOhNein;TI"	Bass;TI"	Drum;TI"A-192-2;TI"seqSQUARED;TI"Assmaster;TI"
+Dwarf;TI"	Star;TI"	real;TI"	ring;TI"cgs;TI"
+Super;TI"Sawtor;TI"Overdrive;TI"
+CESYG;TI"Dualfo;TI"RS-200;TI"
+A-196;TI"PLL;TI"eg;TI"Dewanatron;TI"
+Slice;TI"RS-150;TI"Sequential;TI"Switch;TI"	R-52;TI"SP-4DP;TI"DRUM-03;TI"GMS-714;TI"GMS-952;TI"ac2600;TI"DIY;TI"Toppobrillo;TI"281;TI"
+A-191;TI"
+A-197;TI"
+A-151;TI"	Rev.;TI"RS-420;TI"Octave;TI"Noisering;TI"Differentiator;TI"Function;TI"1HP;TI"
+Black;TI"Acrylic;TI"
+Blind;TI"
+C1630;TI"	Bode;TI"Shifter;TI"Universal;TI"acBMS/R;TI"CGS;TI"
+Event;TI"Sequencer/Wavetracker;TI"
+V'Amp;TI"25;TI"
+A-198;TI"ModMix;TI"Trimmer;TI"8;TI"Craftsman;TI"Gristleizer;TI"Deluxe;TI"Rob;TI"Hordijk;TI"Phaser;TI"Cluster;TI"Polyphonic;TI"	HP01;TI"3;TI"
+Input;TI"Headphone;TI"Pre-Amp;TI"ADDAC602;TI"Passive;TI"
+A-105;TI"
+A-199;TI"
+Erwik;TI"Musikelektronik;TI"Jerkster;TI"Double;TI"	Well;TI"ADDAC804;TI"
+AUDIO;TI"iNTEGRATOR;TI"A-190-8;TI"A-180-2;TI"Multiple;TI"Decoder;TI"Colorspace;TI"Mapper;TI"
+Octal;TI"A-100B1;TI"Scroll;TI"Position;TI"Divisions;TI"	Flip;TI"
+Flops;TI"RS-360;TI"	MIDI;TI"Converter;TI"HP;TI"ARP4072;TI"EMS;TI"	VCS3;TI"SympleSeq;TI"E2;TI"
+MSA-R;TI"controlled;TI"relays;TI"
+C961D;TI"567;TI"	m666;TI"A-100B2;TI"Miniwave;TI"
+Minsk;TI"Lizard;TI"Series;TI"	WAVE;TI"COMPOSITION;TI"OSCILLATOR;TI"Doepfer;TI"DIGITAL;TI"
+NOISE;TI"	M102;TI"A-100B4;TI"Amplifier;TI"SEQUENTIAL;TI"	ECHO;TI"
+RM-2S;TI"
+PATCH;TI"
+MIXER;TI"	6-CH;TI"	E102;TI"Temporal;TI"
+Sound;TI"Of;TI"Thunder;TI"	MKII;TI"	DX01;TI"AttMult;TI"A-100B8;TI"	PAG:;TI"Pingable;TI"Animation;TI"VCAMx:;TI"VCAMatrix;TI"Connector;TI"	AP-1;TI"Marsynth"Work;TI"	Shop;TI"
+Board;TI"AE;TI"Elements;TI"	4F4B;TI"16K;TI"	4K4F;TI"4AB;TI"8F;TI"4E4F4B;TI"4K4F4B;TI"16B;TI"
+Druid;TI"Custom;TI"BOG;TI"
+MARSH;TI"
+SWAMP;TI"RS-100;TI"Gieskes;TI"
+HDRot;TI"	J3RK;TI"Crossfader;TI"CGS733;TI"4x4;TI"	BD99;TI"GT8;TI"M;TI"23;TI"The;TI"Basics;TI"cirklon;TI"	euro;TI"BOB;TI"	257e;TI"
+turns;TI"pot;TI"Hot;TI"
+Rails;TI"
+RS-60;TI"
+Ren√©;TI"7;TI"
+lifes;TI"
+Angry;TI"Cat;TI"Surprised;TI"
+Meaow;TI"	Time;TI"
+ED109;TI"
+TGTSH;TI"A-171-2;TI"A-106-1;TI"ADE-20;TI"DRUM-02;TI"No;TI"
+Drums;TI"ŒºJack;TI"Azimuth;TI"	ES-7;TI"CVT;TI"CV-to-Trigger;TI"
+RS-35;TI"Klasmata;TI"GenXpander;TI"
+ED103;TI"MIDI2SDS;TI"Richter;TI"Anti-Oscillator;TI"MOTM-190;TI"JK;TI"ADC;TI"8BD;TI"8SD;TI"
+Tools;TI"	1900;TI"
+InOut;TI"FSR-4C;TI"FSR-4B;TI"DuaLFO;TI"NoiseRing;TI"	R-60;TI"Self-Tuning;TI"Midi-CV;TI"interface;TI"L-1;TI"Microcompressor;TI"Planar;TI"BiMix_7TE;TI"2x4;TI"+;TI"big;TI"	jack;TI"	LFO2;TI"
+BD909;TI"	ES-6;TI"CV/Lightpipe;TI"Henry's;TI"555-VCO;TI"CGS738;TI"Mangler;TI"MK2;TI"	E370;TI"Synthesizer;TI"Factory;TI"	Logo;TI"	LFO1;TI"
+ED115;TI"MegaWave;TI"Piston;TI"
+Honda;TI"Homicide;TI"Censor;TI"Zorlon;TI"Cannon;TI"VCOFan;TI"
+DEP2b;TI"VC-303;TI"Gotharman;TI"Cirklon;TI"	Euro;TI"ADDAC200S;TI"	Size;TI"Matter;TI"Koneko;TI"Koe;TI"
+ŒºVCA;TI"CGS747;TI"Cynare;TI"Simulator;TI"Recorder;TI"
+Fadex;TI"
+Large;TI"
+FadeX;TI"Toolbox;TI"mattson;TI"
+sq816;TI"sequencer;TI"ŒºFold;TI"	ES-3;TI"SOB;TI"	e440;TI"	e480;TI"Oakley;TI"	e340;TI"
+A-110;TI"Linear;TI"	Soft;TI"RS-270;TI"Comparator;TI"CGS757;TI"Bi-N-Tic;TI"Adaptor;TI"
+Block;TI"MIIIIX;TI"vco;TI"lfo;TI"vca;TI"AD;TI"w0;TI"f0;TI"ADDAC402;TI"Euclidean;TI"Rhythm;TI"ADDAC402B;TI"	Midi;TI"I/O;TI"ADDAC208;TI"Rectifiers;TI"ADDAC802;TI"Quintet;TI"Mixing;TI"Console;TI"ADDAC800X;TI"High-End;TI"RS-240;TI"WVX;TI"NJMVCA;TI"Joystick;TI"Attenuator;TI"A-106-5;TI"passive;TI"OR;TI"Combiner;TI"Mix;TI"ADDAC103;TI"USB;TI"Soundcard;TI"11;TI"	Evil;TI"	Twin;TI"Bandpass;TI"17;TI"
+Timer;TI"
+Wiard;TI"Anti-Envelope;TI"M3;TI"Summary;TI"Photon;TI"POW;TI"	MH11;TI"Pattern;TI"DUPLICATE;TI"Yamaha;TI"CS;TI"295;TI"205;TI"ADDAC202;TI"Amplifiers;TI"
+MIDI2;TI"
+Brain;TI"	Seed;TI"A132.4;TI"
+Chvad;TI"ADDAC111;TI"
+Ultra;TI"	.WAV;TI"Player;TI"ADDAC111B;TI"Impulse;TI"
+Drive;TI"LFO-NZ;TI"VCO-RM;TI"	SY04;TI"	A128;TI"output;TI"extender;TI"Bender;TI"Korgasmatron;TI"
+ED102;TI"Octave-Volts-Hertz;TI"Synchrodyne;TI"
+Juno6;TI"	CP10;TI"SEQ;TI"ACX;TI"M-Sequencer;TI"DIY222;TI"Arp;TI"PROTOTYPE;TI"
+ED113;TI"5-Pulser;TI"	24dB;TI"	Karl;TI"	Marx;TI"
+Stadt;TI"Mixiplexer;TI"Poltergeist;TI"
+Grove;TI"Attenuverting;TI"	Bend;TI"	M303;TI"
+Tetra;TI"	MAPS;TI"SIR;TI"MIX;TI"	ALOT;TI"MODULE;TI"MOTM-650;TI"24-band;TI"Vocoder;TI"Splitter;TI"Bar;TI"
+Graph;TI"Binary;TI"	Zone;TI"
+VILFO;TI"DAD;TI"	Dark;TI"EG1;TI"Deflector;TI"Shield;TI"Resampling;TI"Mini-Delay;TI"	Tyme;TI"Sefari;TI"FX/Reverb;TI"Filthy;TI"Filtre;TI"
+Final;TI"Improbability;TI"Klangwerk;TI"Multi/Atten;TI"Scanner;TI"MIDIverter;TI"Bionic;TI"Lester;TI"
+Micro;TI"Splitter/Buffer/Mixer;TI"A-106-6;TI"Andore;TI"Window;TI"Multi/Attn;TI"
+StonZ;TI"	8008;TI"Bi-n-Tic;TI"
+Chime;TI"Polivoks;TI"Seq;TI"Patch_1;TI"Patch_2;TI"Psycho;TI"Detector;TI"	Tube;TI"Multipliers;TI"
+Burst;TI"FrequenSteiner;TI"Saw;TI"Animator;TI"	1190;TI"	1485;TI"GX;TI"	Pole;TI"
+Stage;TI"	Axis;TI"Boogie;TI"Envelooper;TI"	MARF;TI"	9710;TI"VCA-Mixer-Noise;TI"	9720;TI"	9730;TI"9730FR;TI"MIDI2CV8;TI"	9741;TI"	9744;TI"3CO;TI"	9745;TI"	9746;TI"Patchbay;TI"	9747;TI"	9748;TI"Bal;TI"	9751;TI"	9753;TI"Env;TI"Follower;TI"	9754;TI"PreAmp;TI"	9756;TI"Lin;TI"Exp;TI"	Conv;TI"	9752;TI"	FRAC;TI"SEM;TI"20;TI"132;TI"131;TI"
+IF112;TI"	Deka;TI"US;TI"CGS765;TI"
+ED104;TI"CGS721;TI"
+ED107;TI"PolyDAC;TI"
+Unify;TI"
+ED116;TI"Extended;TI"SH-Noise;TI"
+ED721;TI"ADSRjr;TI"Cyndustries;TI"121-VCF;TI"	1490;TI"
+DMF-2;TI"Wavefolder;TI"padcrt1;TI"Choices;TI"QPLFO:;TI"	QCD:;TI"Distributor;TI"
+SISM:;TI"Shifting;TI"Inverting;TI"Signal;TI"Mingler;TI"SubMix;TI"Cyclebox;TI"	RLPG;TI"	1800;TI"Ken;TI"
+Stone;TI"
+clone;TI"Recycler;TI"XLR;TI"MMG;TI"	RxMx;TI"
+A-107;TI"
+Chord;TI"
+511AC;TI"194;TI"
+Clone;TI"	MS-4;TI"RS-215;TI"Trigger;TI"	Riot;TI"c24;TI"digital;TI"	hits;TI"Circadian;TI"Prototype;TI"CEX;TI"Shadows;TI"8hp;TI"
+Blank;TI"	10hp;TI"Sawtooth;TI"850;TI"
+Pedal;TI"MODSEQ;TI"English;TI"	Tear;TI"890;TI"¬µMixer;TI"Ataraxic;TI"Translatron;TI"sgh;TI"RCD;TI"extension;TI"Corgasmatron;TI"MMM;TI"JP;TI"Fonitronik;TI"Classic;TI"	COTA;TI"Sinclastic;TI"Empulatrix;TI"
+Great;TI"Destroyer;TI"GND;TI"	CTRL;TI"PM;TI"Resonator;TI"LMC;TI"
+WHITE;TI"FACEPLATE;TI"	Bus5;TI"
+att-4;TI"	PC5V;TI"diy;TI"	mult;TI"joy;TI"
+rider;TI"RS-390;TI"ŒºStep;TI"	BF20;TI"Input/Output;TI"Out;TI"	RING;TI"MOD;TI"Gen;TI"282;TI"III;TI"177;TI"Moogerfoogers;TI"Continuum;TI"
+Phase;TI"Doeefer;TI"M29;TI"
+VC-FC;TI"Forward;TI"Compressor;TI"VC-FCS;TI"Evenfall;TI"Modular;TI"Scanner/Switch;TI"	VCSS;TI"
+K1600;TI"RS-340;TI"	SY01;TI"RS-130;TI"Programmable;TI"
+Scale;TI"	Slim;TI"
+RS-50;TI"Shaper;TI"	gate;TI">;TI"trigger;TI"converter;TI"	ENV2;TI"doesn't;TI"fit;TI"	wide;TI"Variable;TI"	VCF2;TI"	MIX2;TI"Channel;TI"custom;TI"	shop;TI"batteryACID;TI"Vermona;TI"qMI;TI"	quad;TI"EO-310;TI"SENSOR;TI"SIGNAL;TI"PROCESSOR;TI"EO-311;TI"TO;TI"	SY03;TI"
+R1982;TI"Station;TI"spectral;TI"modulator;TI"
+CLK2A;TI"
+CLK2B;TI"Rubicon;TI"
+CLK3A;TI"
+CLK4A;TI"	CTL1;TI"	CTL2;TI"DD1;TI"DD2;TI"DD3;TI"	ENV1;TI"PWR;TI"
+A-108;TI"Quadra;TI"	PRC1;TI"	PRC2;TI"
+PRC2B;TI"
+PRC3A;TI"	PRC4;TI"	PRC5;TI"	QNT1;TI"	SEQ1;TI"
+SEQ1X;TI"
+SEQ2A;TI"	SYN1;TI"
+SYN2A;TI"
+SYN2B;TI"SYN2BX;TI"
+SYN2C;TI"	UTL1;TI"
+UTL2A;TI"
+UTL2B;TI"
+UTL2C;TI"	UTL3;TI"	UTL4;TI"	UTL5;TI"
+UTL6A;TI"
+UTL6B;TI"
+UTL6C;TI"	UTLX;TI"repatcher;TI"4ch;TI"Panning;TI"	BUG1;TI"	BUG2;TI"Resonant;TI"ADDAC401;TI"SEQUENCER;TI"
+GLIDE;TI"Buffered;TI"
+PULSE;TI"DIVIDER;TI"
+LOGIC;TI"	MIC.;TI"INTERFACE;TI"SOURCE;TI"LINEAR;TI"ATTENUATORS;TI"
+Vogue;TI"VCF/VCA;TI"	Att4;TI"Cylonix;TI"ARP;TI"	4072;TI"	C965;TI"denominator;TI"	C964;TI"Ratchet;TI"3HP;TI"5HP;TI"ins-2mx;TI"552;TI"Rungler;TI"	Node;TI"	Proc;TI"Res;TI"
+Dixie;TI"	Jack;TI"	FIL2;TI"Spectral;TI"Devastator;TI"	Yves;TI"
+Usson;TI"	LPFA;TI"4HP;TI"
+BLANK;TI"Mutamix;TI"Expanded;TI"M20;TI"ext;TI"in;TI"
+thing;TI"istomp-e;TI"monotron;TI"e;TI"
+Patch;TI"
+block;TI"massive;TI"strange;TI"
+noise;TI"generator;TI"
+rs165;TI"
+rs160;TI"
+KMIDI;TI"Folder;TI"3P;TI"FX6;TI"	C104;TI"M32;TI"Vector;TI"Plotter;TI"Exfilinator;TI"GERMANIZER;TI"Little;TI"Dieter;TI"Horizon;TI"
+A-109;TI"picoENV;TI"	Peak;TI"
+Freak;TI"Wogglebug;TI"#3;TI"
+Maths;TI"Sample/Slew;TI"ADSR‚ÄìVCA;TI"MEGA-WAVE;TI"	BORG;TI"Nerding;TI"5Pulser;TI"
+X4046;TI"Equalizer;TI"SEQ-01;TI"Minijack;TI"15;TI"Audio/Control;TI"Complex;TI"24;TI"Heisenberg;TI"Timbral;TI"44;TI"
+AD/DA;TI"45;TI"21;TI"Milton;TI"Patch4;TI"FSK1138DIY;TI"Miniseq;TI"S/H;TI"Optomix;TI"In;TI"VCO-2RM;TI"	DP-2;TI"A-137-1;TI"Bus;TI"	Stop;TI"	DZGB;TI"	Mind;TI"	Meld;TI"v1;TI"C;TI"969;TI"EUCLIDIAN;TI"BI-CLOCK;TI"951;TI"ARPEGGIATOR;TI"RS-160;TI"RS-165;TI"RS-350;TI"Limiter;TI"Liquid;TI"
+HiHat;TI"	v1.4;TI"	KICK;TI"	v1.0;TI"Postman;TI"
+SNARE;TI"Pressure;TI"Points;TI"RIM;TI"	CLAP;TI"
+Music;TI"
+Thing;TI"‚Äì;TI"man;TI"Man;TI"230;TI"SynthCube;TI"259;TI"am4023;TI"low;TI"	pass;TI",;TI"1u;TI"	frac;TI"Envelator;TI"ADDAC206;TI"Switching;TI"Brains;TI"	Klee;TI"Simple;TI"Mixout-VC;TI"Panner;TI"vcNOIZ;TI"Ardcore;TI"Rotating;TI"Breakout;TI"Shuffling;TI"SCM;TI"	v2.1;TI"	Pink;TI"	King;TI"Mutant;TI"RS-280;TI"
+RS-70;TI"AM8109;TI"JP8;TI"modDemix;TI"MFB;TI"	Orgy;TI"V-Gates;TI"
+8LMHT;TI"
+8CYHH;TI"8HC;TI"8RS;TI"Neural;TI"Agonizer;TI"Rc1;TI"radiostar;TI""Utility";TI"RS-140;TI"CV-MIDI;TI"Pig;TI"Pe;TI"	Vran;TI"Gan;TI"Equinoxe;TI"for;TI"UHC;TI"Fun;TI"Phonogene;TI"Gate/Trigg;TI"
+res-4;TI"	QMMG;TI"LS1lightstrip;TI"CGS-65;TI"Cornucopia;TI"
+Sonic;TI"J√ºrgen;TI"Haible;TI"Tau;TI"Papareil;TI"CGS-58;TI"Ian;TI"
+Fritz;TI"Teezer;TI"RS-370;TI"CVP;TI"	100M;TI"ADDAC002;TI"
+C911P;TI"A-157-1;TI"D/A;TI"A/D;TI"to1;TI"2HP;TI"	42HP;TI"Klangshifter;TI"passif;TI"A-157-2;TI"out;TI"A-157-3;TI"
+Basic;TI"controller;TI"G8;TI"IO;TI"Steiner;TI"Microcon;TI"	Rene;TI"
+LINIX;TI"Ringking;TI"att√©nuateur;TI"m√©langeur;TI"blacet;TI"	time;TI"machine;TI"RED;TI"uScale;TI"2.0;TI"
+Meter;TI"Corrector;TI"ADDAC601;TI"
+Fixed;TI"Filterbank;TI"	260e;TI"
+TTLFO;TI"A-135-1;TI"	QVCA;TI"
+VCMIX;TI"WOW;TI"AND;TI"FLUTTER;TI"Discontinuity;TI"
+z8000;TI"4x;TI"Instrument;TI"
+MMF-6;TI"ModBase;TI"09;TI"Mod.Brane;TI"MSX-USB;TI"MSX-EG2;TI"MSX-LFO2;TI"MSX-MATRIX;TI"A-111-1;TI"	DSDR;TI"	Reso;TI"N;TI"Braids;TI"
+Edges;TI"Ripples;TI"
+Grids;TI"	BD78;TI"	SD78;TI"	CL88;TI"	CVIO;TI"DSP;TI"	Best;TI"4V2;TI"Locator;TI"Compositor;TI"Gainsburg;TI"
+BD808;TI"905;TI"Reverb;TI"CP1;TI"CP2;TI"Terminal;TI"ADDAC007;TI"	CG88;TI"	SD99;TI"Defibrillator;TI"d0;TI"n0;TI"m0;TI"COA;TI"2.2;TI"CS80.Com;TI"GX1;TI"A/R;TI"Jupiter;TI"
+Storm;TI"RS-375;TI"BD;TI""R";TI"	mkII;TI"Noise/Random;TI"voltage;TI"Strakal;TI"
+Brulu;TI"{Re;TI"Gre√±v;TI"Eo};TI"
+A-128;TI"808;TI"
+SY-02;TI"	SR01;TI"Metasonix;TI"	R-51;TI"	R-53;TI"	R-54;TI"MK1;TI"
+Gamma;TI"WMD;TI"Geiger;TI"Counter;TI"Hadron;TI"Collider;TI"
+C921A;TI"
+C921B;TI"	C911;TI"	C902;TI"	904A;TI"	C939;TI"Buffer;TI"8CB;TI"Attenuator/Mults;TI"SWITCH;TI"Cobalt;TI"Smelter;TI"Lab;TI"
+SD808;TI"	DIGI;TI"	DRUM;TI"v3;TI"v4;TI"Quantimator;TI"Integer;TI"Dividers;TI"
+C961S;TI"
+Lamps;TI"V1;TI"ADDAC009;TI"Version;TI"
+Short;TI"
+World;TI"	Core;TI"
+GREEN;TI"Croglin;TI"SubMix7;TI"Voltages;TI"Pulses;TI"HATS808;TI"DRUM-99;TI"	CP88;TI"
+M-011;TI"Bipolar;TI"V-meter;TI"	Tile;TI"Carrier;TI"	ES-5;TI"
+Hertz;TI"
+Donut;TI"Multifilter;TI"AM8044;TI"Cascade;TI"	&VCA;TI"	8K4B;TI"
+Ondes;TI"
+pitch;TI"combiner;TI"	6in1;TI"OR-Combiner;TI"281/DRLPG;TI"
+P-010;TI"Switchable;TI"Synthcube/;TI"Barton;TI"
+Sport;TI"PatchPierre;TI"
+A-127;TI"
+A-124;TI"
+A-118;TI"Noise/Rnd;TI"
+Volt.;TI"Modified;TI"
+A-156;TI"Modification;TI"
+A-136;TI"Distortion;TI"OSC-01;TI"DCO;TI"	501D;TI"	uVCA;TI"	501E;TI"	501M;TI"
+CLOCK;TI"COUNTER/SEPARATOR;TI"
+RES-4;TI"
+uzeus;TI"	blak;TI"6hp;TI"V2:;TI"Invert/Offset;TI"it/Push;TI"it;TI"Monorocket;TI"
+Trunk;TI"CSK;TI"	RG-6;TI"A-101-1;TI"4hp;TI"A-143-1;TI"RS-510e;TI"GZP;TI"Waveshaper;TI"	WASP;TI"Moogah/Synthcube;TI"Sem;TI"	CLEE;TI"Clarke68;TI"LP;TI"Clarke;TI"
+Z3000;TI"
+Smart;TI"
+PS842;TI"PS842b;TI"	Zoom;TI"RCD/SCM;TI"	1230;TI"Super37;TI"keyboard;TI"module;TI"AM8140;TI"
+CGS52;TI"Transport;TI"VEM;TI"morphing;TI"terrarium;TI"	mini;TI"expander;TI"Sallen;TI"
+BF-22;TI"hawklord2112;TI"	logo;TI"TheAbsent;TI"feedback;TI"	Push;TI"Displacement;TI"	MkII;TI"
+A-112;TI"FSK1138;TI"PI;TI"L;TI"Squared;TI"
+MAQ16;TI"RB1;TI"Robotto;TI"Gezeiten;TI"Balnostic;TI"Deriver;TI"Zularic;TI"Repetitor;TI"VCF303;TI"Hephal;TI"Prolocutor;TI"Mullet;TI"Confaumlated;TI"Ventener;TI"Iconlaxic;TI"Productor;TI"Metric;TI"Waster;TI"Motive;TI"Provicator;TI"Mechanic;TI"RS-100S;TI"RS-300;TI"	G777;TI"BEFACO;TI"SLICER;TI"V3;TI"Elektron;TI"A4;TI"EML;TI"
+State;TI"257;TI"285;TI"275;TI"Capture;TI"SW;TI"Metropolis;TI"904;TI"CP3;TI"	TM88;TI"Spacer;TI"Thunderclap;TI"A-141-2;TI"66B;TI"VCA-Mixer;TI"SW901AB;TI"Micromac;TI"-R;TI"	56hp;TI"SW1;TI"ALM002;TI"Beast's;TI"Chalkboard;TI"5-PULSER;TI"ANALOG;TI"XOR;TI"	1710;TI"Superladder;TI"ChatterBox;TI"memory;TI"ardcore;TI"mod;TI"291;TI"Differential;TI"Manifold;TI"MIXMODE;TI"SSF;TI"Vented;TI"R-1987;TI"VCG;TI"	Plan;TI"
+B/CGS;TI"13;TI"tabulaRasa;TI"patchblock;TI"
+Decay;TI"enVSloop;TI"210;TI"Daimos;TI"
+Muten;TI"	v1.1;TI"Propagate;TI"Tetsuo;TI"506;TI"Q109-VCA;TI"
+Rider;TI"Catgirl;TI"Synthesizers;TI"
+sl-16;TI"oberkorn;TI"sliders;TI"
+right;TI"	side;TI"	left;TI"AnalogDelay;TI"matrix64;TI"	midi;TI"	sync;TI"multiples;TI"	step;TI"
+A-113;TI"	card;TI"	wave;TI"animator;TI"MCV;TI"to;TI"voxglitch;TI"cv;TI"gen;TI"overlay;TI"Synthrotek;TI"
+Atari;TI"	Punk;TI"	CB88;TI"Cowbell;TI"SVF;TI"	Lil';TI"Monster;TI"Synthcube/j3rk;TI"SBM3200;TI"	C3PO;TI"Edward;TI"Kayonashi;TI"	Chun;TI"Li;TI"	edge;TI"ADE-30;TI"	Boss;TI"ADE-31;TI"RND;TI"	VOLT;TI"	E440;TI"Discrete;TI"OTA;TI"DIY_Wogglebug#3;TI"	1510;TI"Doubled;TI"
+A-145;TI"Erebus;TI"Orifice;TI"Falling;TI"
+Apart;TI"
+Links;TI"MixMan;TI"Dubmix;TI"Aux;TI"Robokop;TI"MS2;TI"	VCOb;TI"StationX;TI"StationY;TI"Through-Zero;TI"Transistor;TI"Super-Ladder;TI"L1;TI"
+Z4000;TI"Benjolin;TI"Cwejman;TI"
+MX-4S;TI"	2013;TI"X-2013;TI"Saturn;TI"	Q174;TI"	.mix;TI"Gatemix;TI"Analogue;TI"Computation;TI"
+Gates;TI"Or;TI"what?!;TI"
+VCLFO;TI"Ramcur;TI"LP1lightplane;TI"LS1;TI"CV/Gate;TI"anushri;TI"exp;TI"Falafular;TI"R2DSlew;TI"
+Yarns;TI"
+Tides;TI"Frames;TI"277;TI"
+Peaks;TI"
+CVpal;TI"Jackomix;TI"TZ;TI"
+AD/AR;TI"v0;TI"Echophon;TI"#1;TI"EKG;TI"DD;TI"
+A-114;TI"	Luna;TI"Tupperware;TI"cv/gate;TI"
+space;TI"Solina;TI"Chorus;TI"	CMOS;TI"	adsr;TI"
+CGS22;TI"Master;TI"
+CGS29;TI"	with;TI"	Real;TI"Jurgen;TI"Drum-98;TI"	Q175;TI"--;TI"Threeler;TI"Tapped;TI"
+CHAOS;TI"	NAND;TI"
+VCA4p;TI"
+C1660;TI"
+9504A;TI"	C915;TI"Glissando;TI"
+C911A;TI"73B;TI"	LFO?;TI"ReD;TI"Yo!;TI"IN;TI"
+dep2b;TI"
+90deg;TI"diy_m-odule_4;TI"
+SVVCF;TI"2X;TI"
+stomp;TI"shield;TI"-e;TI"ShNoiZe;TI"VM;TI"Dr.;TI"Octature;TI"Output;TI"Format;TI"Wiggler;TI"LFO/S+H/Noise;TI"	EG02;TI"Envelopes;TI"265;TI"294;TI"	M2CV;TI"
+16bit;TI"555;TI"Attenuator/Voltage;TI"	Scan;TI"External;TI"Device;TI"3U;TI"by;TI"eatyourguitar;TI"AM8027;TI"OMS-820;TI"1U;TI"Att-Vert;TI"Attenuate;TI"B;TI"Compare;TI"DC;TI"DIN;TI"Implant;TI"Invert;TI"	N.O.;TI"Sum;TI"recorder;TI"switch;TI"	Case;TI"divider;TI"Vertical;TI"	case;TI"Horizontal;TI"Jonctions;TI"LDR2Gate;TI"VoltaFlash;TI"	mh01;TI"atten.switches;TI"synth.tech;TI"OCTO-SEQ;TI"Objects;TI"Ardcore001;TI"AteOhAte;TI"	Toms;TI"X3;TI"
+A-115;TI"Minimal;TI"Edition;TI"Battery;TI"	Acid;TI"100;TI"195;TI"Polymoog;TI"Mirror;TI"
+FRB-1;TI"JUNIOR;TI"QCD;TI"Expander:;TI"	Tame;TI"V-Noise;TI"	VU01;TI"VU;TI"Multiladder;TI"	REV5;TI"ER-101;TI"v.2;TI"	PH01;TI"Shades;TI"lightstrip;TI"MV3;TI"SSL;TI"	2610;TI"Switched;TI"rs-sqp4;TI"nto-quo-ncom-mpro;TI"adsr-sqp4;TI"rs-quo-vcfq-2vca;TI"rs;TI"Quadrature;TI"	2vca;TI"	vcfq;TI"wad;TI"mclass;TI"	BMIX;TI"MMM_VCF_JUMBLER;TI"Lopass;TI"TrAniModule;TI"MPS;TI"comparator;TI"Offsets;TI"	Neve;TI"Transformer;TI"	D.I.;TI"	CP15;TI"
+C907A;TI"	C995;TI"	C923;TI"	C921;TI"
+CP909;TI"MKI;TI"v2;TI"DPO;TI"DualTrigger;TI"TripleTrigger;TI"Mini-PWR;TI"1hp;TI"	VCO2;TI"VCO/LFO;TI"	Beta;TI"PDO;TI"CRV-24;TI"	Plog;TI"voyager;TI"xl;TI"
+upper;TI"patchbay;TI"
+lower;TI"
+Higly;TI"	MD24;TI"Yusynth;TI"div;TI"
+A-116;TI"
+MMF-1;TI"Te;TI"Zo;TI"
+Koant;TI"DS8;TI"syndrum;TI"SYNDRUM;TI"	2100;TI"	2090;TI"	2300;TI"	2020;TI"	2070;TI"uHC;TI"	2440;TI"	2040;TI"	2030;TI"	2010;TI"
+Klang;TI"	Werk;TI"822;TI"V-Shift;TI"JLH;TI"Ribbon;TI"MOTM-320;TI"
+SM020;TI"VCA-4MX;TI"	2180;TI"AM8012;TI"
+2600P;TI"Endorphin.es;TI"AID;TI"
+[Left;TI"
+Half];TI"[Right;TI"	Make;TI"
+v1/v2;TI"Expert;TI"Sleepers;TI"	ES-4;TI"RS-95E;TI"
+Mungo;TI"Wow;TI"Flutter;TI"Snazzy;TI"FX;TI"Brother;TI"Dreamboat;TI"Dronebank;TI"
+VcLfo;TI"Rs510e;TI"duplicate!;TI"Rs500e;TI"Rs;TI"95e;TI"212;TI"702;TI"	703B;TI"
+Z5000;TI"Effect;TI"M45;TI"QMMF-4;TI"	Volt;TI"	261e;TI"Memory;TI"Manager;TI"Neuron;TI"Difference;TI"rectifier;TI"s1;TI"mk2;TI"Electro;TI"Cardiogram;TI"Envelarp;TI"AM8328;TI"Mirage;TI"ArdCore;TI"Cthulhu;TI"CV/Gatekeeper;TI"DixieII;TI"DixieControl;TI"	ASOT;TI"
+A-117;TI"
+RCDBO;TI"	Alex;TI"	June;TI"	GorF;TI"XL;TI"ALM003;TI"SID;TI"	GUTS;TI"	Q127;TI"	Q140;TI"Multimix;TI"	mute;TI"switches;TI"	MG-1;TI"Galilean;TI"
+Moons;TI"
+ADM01;TI"
+DubJr;TI"
+ADM02;TI"Grainshift;TI"
+ADM03;TI"Errorbox;TI"Pedals;TI"Interface/mult;TI"	uLFO;TI"silver;TI"faceplate;TI"Equation;TI"Composer;TI"Tri;TI"SPDIF/CV;TI"Bolean;TI"520;TI"C.C;TI"yusynth;TI"eurorack;TI"ESX-8GT;TI"T/G/T/S&H;TI"ModuleModule;TI"w/;TI"translator;TI"Tadpole;TI"Old;TI"	Crow;TI"VCO153;TI"Stoicheia;TI"Optodist;TI"
+QPLFO;TI"	ZONE;TI"	B.F.;TI"	A.D.;TI"Amplification;TI"Discr√®te;TI"
+Titan;TI"Magn√©tosph√®re;TI"Rayonnement;TI"Sommateur-Att√©nuateur;TI"248-1602;TI"AM8047;TI"216;TI"Intermix;TI"AM8019;TI"ModStar;TI"On;TI"	Outs;TI"	Camp;TI"227;TI"248;TI"Trident;TI"Triples;TI"Spring;TI"Halfling;TI"Switch-Injection;TI"Double-LFO;TI"Hybrid;TI"Decaying;TI"Rectifier;TI"	MA35;TI"
+VCF/A;TI"neuron;TI"difference;TI"UL1;TI"Syndicate;TI"Sequencer!;TI"	sl16;TI"papernoise;TI"Orbitals;TI"phonogene;TI"S1;TI"Mk;TI"Moskwa;TI"	[TG];TI"
+gamma;TI"source;TI"
+A-120;TI"
+A-132;TI"-3;TI"
+A-140;TI"expansion;TI"	Cmos;TI"
+Space;TI"	Moth;TI"Operator;TI"Big;TI"
+Twerp;TI"
+ŒºAtt;TI"ADDAC004;TI"ADDAC201;TI"Inverter;TI"Dis;TI"Sub-octave/Ring;TI"
+Duple;TI"multiple;TI"Pseudo-random;TI"
+Pitch;TI"
+shift;TI"
+delay;TI"MAQ16/3;TI"wogglebug;TI"Branches;TI"MM_mxr-vca-lfo-att;TI"MM_mxr-vca-morphun;TI"Sputnik;TI"	258c;TI"Sympleseq;TI"ES-2-2;TI"
+Macro;TI"Machines;TI"
+C1631;TI"Mindreader;TI"	E355;TI"RumBum;TI"GMS-724;TI"
+569EG;TI"	563E;TI"	590V;TI"	590G;TI"ondesMix;TI"	E560;TI"
+590VI;TI"
+590GI;TI"Noise/Sample;TI"Aid;TI"	592O;TI"Q960WF;TI"Plugtone;TI"ENV;TI"
+A-119;TI"
+K4815;TI"TC;TI"PS-3100;TI"Trouble;TI"R√∂hren;TI"	R-56;TI"CGSVCO;TI"Amnesia;TI"OSC-03e;TI"VCF-SED;TI"	E580;TI"Mr.;TI"Crotchety;TI"octatrack;TI"top;TI"bottom;TI"MixMult;TI"LeD;TI"
+Crush;TI"ADE-10;TI"Reactive;TI"104;TI"Ch;TI"Multi-LFO-Noise;TI"SP;TI"EMW-200;TI"Family;TI"	247v;TI"V-Clock;TI"[prototype];TI"	C105;TI"
+Lo-Fi;TI"	Q110;TI"	Q117;TI"
+Combo;TI"Summing;TI"Amp;TI"LDB-1e;TI"	703A;TI"704;TI"	706D;TI"708A+709A;TI"Ringmod/SH/Noise;TI"284;TI"Trans-Europa;TI"Tirana;TI"Tracks;TI"Quantum;TI"Rainbow;TI"sockets;TI"Shimmer;TI"
+Wrvco;TI"Wrvcob;TI"p0;TI"Pgm;TI"	4x4a;TI"Tactical;TI"29;TI"4channel;TI"	comb;TI"MK3;TI"RS-400;TI"RS-430;TI"A-110-1;TI"
+AD633;TI"MULTIMODE;TI"FREQSHIFTER;TI"	S100;TI"
+SYN12;TI"TripFire;TI"
+MULTI;TI"BP;TI"3X;TI"TRI;TI"Pan;TI"201;TI"202;TI"292;TI"MX;TI"Germania;TI"241;TI"Runner;TI"envelope;TI"	Evin;TI"209;TI"ALM004;TI"
+D.S.G;TI"Hexagon;TI"Shapeshifter;TI"204;TI"Spatial;TI"Director;TI"Stilton;TI"245;TI"Dodecamodule;TI"256;TI"
+buf[];TI"
+ADM04;TI"FreqShift;TI"Kuzminorgel;TI"
+w-163;TI"
+Proto;TI"	Type;TI"VoiceRec;TI"2C;TI"burninmonk;TI"JD;TI"engineering;TI"mullet;TI"triple;TI"breakout;TI"
+3.5mm;TI"	1/4";TI"	Warp;TI"STO;TI"Stochastic;TI"
+Magic;TI"
+Smoke;TI"Resynthesis;TI"CGS-35;TI"#2;TI"HexInverter;TI"	User;TI"Writable;TI"Qotile;TI"Ultimatum;TI"ADV-Snare;TI"Waveshape;TI"Gabotronics;TI"
+Mixed;TI"Highly;TI"
+Z2040;TI"LP-VCF;TI"Clap/Rim;TI"	Kick;TI"Midwest;TI"Products;TI"ADV-Bass;TI"OBERmod;TI"	LoFi;TI"Sampler;TI"
+Snake;TI"	PAiA;TI"Springs;TI"	Tone;TI"Stillson;TI"Hammer;TI"
+Coron;TI"DS7;TI"Mattson;TI"Amplitude;TI"Patchell;TI"PT2399;TI"Smooth;TI"Stepped;TI"V8;TI"Engine;TI"Looper;TI"
+Bleep;TI"	Labs;TI"Cradle;TI"Transmission;TI"D4069-1AM;TI"bandpass;TI"ringmod;TI"wooglebug;TI"
+Easel;TI"
+CB808;TI"LA;TI"BESTIA;TI"Edelweiss;TI"EKO;TI"Nebul√¶;TI"	9802;TI"
+Phono;TI"Preamp;TI"5A;TI"Melody;TI"	Mill;TI"Synthacon-VCF;TI"RYO;TI"555vco;TI"system;TI"x;TI"	2lfo;TI"sh;TI"alex&june;TI"vcf;TI"attenuator;TI"as;TI"vcamix;TI"
+A-121;TI"dc;TI"	rlpg;TI"seq;TI"timbre;TI"4046vco;TI"Quantize;TI"vcdelay;TI"Modcan;TI"quantizer;TI"59B;TI"8-STAGE;TI"
+PHASE;TI"SHIFTER;TI"DualWave/DVDO;TI"PRO;TI"JS;TI"
+ED122;TI"	14HP;TI"Manhattan;TI"PH01II;TI"Eurokorn;TI"TOMS909;TI"Clerveans;TI"Centre;TI"de;TI"Contr√¥le;TI"TH;TI"CEM3328LPF;TI"Ultima;TI"
+Ratio;TI"
+J-010;TI"Utiliple;TI"	C994;TI"YuSynth;TI"Minimoog;TI"Shared;TI"IIO;TI"---;TI"Defect;TI"289;TI"MM;TI"messaround;TI"touchplate;TI"tkb;TI"Homemade;TI"TRIPLES;TI"Waveforms;TI"
+Spock;TI"BBC;TI"
+Style;TI"rv1;TI"52;TI"Vampire;TI"
+J-011;TI"	Math;TI"
+L-010;TI"	tyme;TI"safari;TI"mk;TI"
+ES-40;TI"
+SPDIF;TI"	.bam;TI"ESX-8CV;TI"Ampmix;TI"Vertmix;TI"synth√©;TI"million;TI"
+Level;TI"	Line;TI"AnVilope;TI"LogicOgic;TI"ESX-8MD;TI"
+ZTVCO;TI"Assembly;TI"LP1;TI"	MixZ;TI"Tornado;TI"nw2s::b;TI"ROW;TI"30;TI"DC1;TI"RS-250;TI"T&H;TI"Atlantis;TI"Ultraflop;TI"
+A-122;TI"extended;TI"DSC-2000;TI"Element;TI"ER;TI"signal;TI"processing;TI"	MCV4;TI"romanF;TI"	266r;TI"SOU;TI"4MS;TI"Grayscale;TI"lights;TI"AM4023;TI"Beast¬¥s;TI"Beasts;TI"mtl-01;TI"	spdt;TI"Clockwork;TI"mtl-02;TI"	dpdt;TI"superswitch;TI"mtl-03;TI"switchatt;TI"mtl-04;TI"	deck;TI"	diff;TI"
+rect.;TI"Keyscan;TI"fht;TI"Multi-Effect;TI"RM;TI"T-182-1;TI"EFG;TI"Amplifryer;TI"Destructor;TI"	Beam;TI"
+Haxor;TI"
+AC-DC;TI"A-143-4;TI"'73;TI"
+TL555;TI"
+Vectr;TI"	Korg;TI"B-Mult;TI"AAF;TI"Staabo;TI"Lindhof;TI"Resonance;TI"232;TI"	klee;TI"r0;TI"
+4x4x4;TI"
+pverb;TI"subMix;TI"Grendel;TI"Formant;TI"British;TI"Oscillators;TI"COMMANDER;TI"MASTER;TI"Smugrik;TI"Attenumixer;TI"LM;TI"Bistromath;TI"RM-4014;TI"2U;TI"Eternity;TI"Sheboygan;TI"Standards;TI"ThunderBell;TI"DNA;TI"SYMBIOTIC;TI"
+WAVES;TI"WAVEFORMS;TI"SYNTHESIZER;TI"BOX;TI"Multistage;TI"Harmonic;TI"AMPLITUDE;TI"	TONE;TI"CONTROLLER;TI"
+A-123;TI"
+uZeus;TI"CP-251;TI"VX-351;TI"503;TI"521;TI"511;TI"595;TI"
+Georg;TI"	Mahr;TI"40;TI"
+R-Box;TI"Specials;TI"BMC004;TI"Clock/Divider;TI"g.d.r.;TI"	e.q.;TI"6;TI"channel;TI"GDR;TI"
+plain;TI"
+blood;TI"
+Rosie;TI"
+PB-1E;TI"Teleplexer;TI"Ultra-Random;TI"Cornicopia;TI"
+CVQ02;TI"CTRLSEL-G;TI"CTRLSEL-V;TI"
+901-A;TI"
+901-B;TI"Hihats;TI"Bassdrum;TI"	TEST;TI"SeqSquared;TI"981;TI"testing;TI"
+multi;TI"Mysteron;TI"Erbe-Verb;TI"Telephone;TI"	Game;TI"Tabula;TI"	Rasa;TI"	18hp;TI"CTRL-SEL;TI"	.div;TI"	.pri;TI"	.bin;TI"
+Swash;TI"Ryk;TI"
+M-185;TI"
+voice;TI"rec-1b;TI"	CP1A;TI"	33hp;TI"Pole-Zero;TI"Spectrum;TI"Ultrafold;TI"Sampleslicer;TI"Momentary;TI"Latching;TI"Pass-through;TI"Loquelic;TI"Iteritas;TI"Basimilus;TI"Silamic;TI"Quantic;TI"Mimetic;TI"Sequent;TI"Variatic;TI"Horologic;TI"Divulam;TI"
+Solum;TI"Dualnic;TI"Eliciunt;TI"Mictic;TI"Xerestor;TI"Explitizer;TI"AMP;TI"OctOsc;TI"GRP;TI"R24;TI"
+L-011;TI"Wellenreiter;TI"Vintage;TI"Voltron;TI"5;TI"TWF;TI"
+Cross;TI"a-101-2;TI"Oscillarp;TI"221;TI"Circuit;TI"Slices;TI"Preset;TI"Box;TI"	Kala;TI"Goa√±v;TI"ADDAC300;TI"Starvation;TI"Escalation;TI"Dominance;TI"Quad-Atten;TI"Moogah;TI"
+state;TI"variable;TI"FSR-1N;TI"CVToolbox;TI"	HEXA;TI"C901-A;TI"C901-B;TI"C901-C;TI"	j3rk;TI"	Gene;TI"Splicer;TI"MVP;TI"Bl1;TI"
+FMVDO;TI"	R-57;TI"Storage;TI"
+Strip;TI"
+Sturm;TI"und;TI"
+Drang;TI"	Octo;TI"PVE;TI"	.com;TI"Precision;TI"RS-190;TI"VU-Meter;TI"	CS-8;TI"PHS-28;TI"Super-Phaser;TI"HDCV88;TI"RS-260;TI"Resonnant;TI"LoPassGate;TI"twinOUT;TI"	Fade;TI"twinVCAmp;TI"Triplatt;TI"A-190-4;TI"upside;TI"	down;TI"
+S-010;TI"Clockworks;TI"
+D-010;TI"Twin-T;TI"
+C-010;TI"Lag/Slew;TI"RiDrum;TI"
+TK-09;TI"
+C-020;TI"
+C-030;TI"
+H-020;TI"Harmonics;TI"ODYSSEY;TI"	12HP;TI"	10HP;TI"	VCDO;TI"XXX_OR;TI"
+ADM05;TI"√Üverb;TI"ADDAC210;TI"	Open;TI"
+Heart;TI"Surgery;TI"KOE;TI"	v2.0;TI"Kracken;TI"Morpheum;TI"
+A-125;TI"ADDAC303;TI"Q182TS;TI"ThumbStick;TI"	F355;TI"external;TI"QVCO-Adapter;TI"A-129-1;TI"A-129-2;TI"
+VCF-2;TI"Heuristic;TI"DUPLICATE!;TI"
+A-1??;TI"Thru-Zero;TI"VCO/VCF;TI"	263v;TI"	M592;TI"
+M592i;TI"ADDAC701;TI"Neutron;TI"Duofonik;TI"Algorhythm;TI"Hyperwave;TI"	Exit;TI"Strategy;TI"Clockulator;TI"Banana;TI"
+Split;TI"	258J;TI"TwoPot;TI"	252e;TI"Iteratis;TI"
+RS808;TI"Decade;TI"	XMIX;TI"	BASS;TI"
+TR909;TI"MUC-400;TI"Filtare;TI"
+SEIII;TI"524;TI"Low;TI"594;TI"	Trig;TI"Ha;TI"	Farz;TI"AUTOBOT;TI"
+M-110;TI"3ch;TI"O1A;TI"	C966;TI"VCDO-4;TI"	rpio;TI"Touchplate;TI"ADDAC805;TI"
+Xfade;TI"A-101-6;TI"	Opto;TI"A-127-2;TI"	VCRF;TI"BOM;TI"	Nice;TI"ADDAC703;TI"RF;TI"
+Nomad;TI"
+FX-16;TI"Raging;TI"	Bull;TI"	904C;TI"	904B;TI"Atoner;TI"Delaying;TI"	2LFO;TI"SH;TI"ADDAC209;TI"ADDAC200B;TI"VCA/Panner/Mixer;TI"av1;TI"x0x;TI"Briareos;TI"	Chii;TI"
+A-126;TI"ŒºFade;TI"4U;TI"
+Fonik;TI"
+Alien;TI"Screamer;TI"
+RADIO;TI"CHANGER;TI"A-132-1;TI"ADDAC301;TI"
+Floor;TI"
+mmmmm;TI"
+MX224;TI"	EURO;TI"
+Brute;TI"JLR;TI"
+MBSEQ;TI"EuroSID;TI"
+Bytes;TI"ER-102;TI"OSC;TI"HRM;TI"
+Z-DSP;TI"VC-Digital;TI"984;TI"901;TI"LF-VCO;TI"
+DRM-1;TI"
+BLACK;TI"FILLER;TI"Kenton;TI"	Solo;TI"	48HP;TI"
+Haken;TI"
+blind;TI"
+Erica;TI"alternate;TI"Nandamonium;TI"Pyramid;TI"Mr;TI"	Fill;TI"ADDAC207;TI"	2014;TI"Run;TI"
+SLOPE;TI"INSTRUMENT;TI"
+CRUSH;TI"	uVCO;TI"reverb;TI"	OUTS;TI"
+E-110;TI"5-band;TI"
+¬µMod;TI"6550-99;TI"toppobrillo/buchla;TI"function;TI"BMC;TI"	Frac;TI"'81;TI"Invader;TI"N-182-1;TI"Three-Pole;TI"nodrums;TI"Analyzer;TI"ALM006;TI"
+S.B.G;TI"KI;TI"Euro-Microzwerg;TI"D0;TI"
+Rogue;TI"Voltergeist;TI"PTG;TI"USG;TI"Oct;TI"
+Volca;TI"
+Beats;TI"	Keys;TI"
+1SONG;TI"BMC020;TI"
+RS-95;TI"	VCSQ;TI"
+Tempo;TI"	Knob;TI"	Menu;TI"Mk3;TI"panTtenuator;TI"Sequence;TI"	VIII;TI"	Echo;TI"333;TI"Micron;TI"V4;TI"	BLUE;TI"	noah;TI"c.;TI"howell;TI"Ansome;TI"	Mute;TI"Mixer/Attenuverter/Offset;TI"Synthasystem;TI"
+BiMix;TI"Quantiser;TI"triggerhappy;TI"Synapse;TI"Helper;TI"14;TI"	M525;TI"R2M;TI"[2014];TI"26;TI"Multi-tasking;TI"Delayed;TI"	Auto;TI"8-Stage;TI"Freaker;TI"16-Step;TI"Quantized;TI"Vari-Clock;TI"	4√ó4;TI"
+Abbey;TI"	PAIA;TI"
+CGS35;TI"Systems;TI"JLH-822;TI"Sub;TI"	2225;TI"Pitchshift;TI"	Paia;TI"Quadrafuzz;TI"Phaser/Filter;TI"ADSR/VCA;TI"Future;TI"
+Retro;TI"Mobius;TI"Penetration;TI"Menage;TI"a;TI"
+trois;TI"Arplifier;TI"Toaster;TI"12;TI"Extras;TI"Parametric;TI"
+C-510;TI"Synare;TI"
+O-510;TI"
+F-510;TI"
+BMC23;TI"A-138m;TI"a-197-2;TI"lcd;TI"oscilloscope;TI"kit;TI"	m679;TI"BMC22.;TI"Auto-Seq;TI"	Note;TI"ŒºScale;TI"	[v2];TI"Combine-OR;TI"	BEMI;TI"208;TI"218;TI"Circuitry;TI"Stereoscopic;TI"
+Arpie;TI"Orgone;TI"Accumulator;TI"BMC10.DDN;TI"
+BMC13;TI"A-101-2;TI"	Pass;TI"
+RS-20;TI"	[4TE;TI"conversion!];TI"AM8320;TI"Prophet;TI"Atenuverter;TI"
+Drone;TI"Handpainted;TI"PE;TI"Switches;TI"PassiVac;TI"
+tbDSP;TI"CC;TI"Darwin;TI"Xpander;TI"	Comp;TI"246;TI"SSG;TI"DSG;TI"Graphic;TI"DTG;TI"router;TI"	T.H.;TI"	8038;TI"	Buff;TI"	T.S.;TI"	I.F.;TI"Slew/LPF;TI"Cyclic;TI"	N.C.;TI"XR;TI"CLK;TI"	BD88;TI"	E.P.;TI"EHX;TI"Program;TI"	Clap;TI"237;TI"	SARA;TI"Visual;TI"Cortex;TI"Divide;TI"'N';TI"PCO;TI"
+ADM06;TI"Low-Gain;TI"Either-OR;TI"
+D-MUX;TI"Springray;TI"APC;TI"Living;TI"	Wood;TI"Filler;TI"
+morph;TI"MidiTrigger;TI"HiHats;TI"G;TI"	rack;TI"A-129-1/2;TI"V9a;TI"Mutable;TI"Instruments;TI"Gotharman's;TI"
+TubaZ;TI"	277c;TI"
+VOLTS;TI"DixieCTRL;TI"Cadavre;TI"Exquis;TI"New;TI"SimpleSeq;TI"CGS762;TI"
+LEVIN;TI"Gatling;TI"Logiplex;TI"Ordnance;TI"Shapable;TI"VCdelay;TI"Deathray;TI"	Hexa;TI"Disting;TI"ADDAC301B;TI"	MASF;TI"	Mo.S;TI"
+OSC03;TI"Timetable;TI"Dual-LFO;TI"	G.R.;TI"	S.M.;TI"ornament+crime;TI"MATRIX;TI"
+Logoi;TI"Writeable;TI"	Full;TI"Jellyfish;TI"Multipoles;TI"Sololoquy;TI"non-seq;TI"ALM007;TI"Bow;TI"Tie;TI"
+Chain;TI"Reactor;TI"Bissell;TI"	Dave;TI"
+Smith;TI"
+DSM01;TI"Curtis;TI"1B;TI"Panther;TI"
+ED701;TI"miniScope;TI"filler;TI"DTSwitch;TI"LepLOOP;TI"
+cassa;TI"
+CASSA;TI"Cymbal;TI"
+Casse;TI"A-129-3;TI"DrumDokta;TI"Q181FJ;TI"	Foot;TI"
+Iungo;TI"Hexinverter;TI"LiquidHH;TI"HIKARI;TI"
+MA808;TI"Maraca;TI"DDB;TI"4X;TI"OMS-410;TI"	Mega;TI"Percussive;TI"MiniProphet;TI"	VCOs;TI"OSC303;TI"Intellijel;TI"Bucket;TI"Brigade;TI"	Unit;TI"Tunable;TI"	VCVA;TI"OWL;TI"
+MATHS;TI"Alternative;TI"	FS01;TI"Fill-In;TI"Switcher;TI"	DRM1;TI"
+Major;TI"
+DRM1X;TI"MSK;TI"001;TI"
+Sekai;TI"Mikrophonie;TI"Segwencer;TI"ADDAC302;TI"Qu-Mult;TI"Logical;TI"Shelves;TI"
+FSR2P;TI"Streams;TI"
+Snare;TI"	Jmej;TI"Kazuya;TI"minimoog;TI"quadrature;TI"	C106;TI"Loopable;TI"	more;TI"Ultimate;TI"Sweeping;TI"	Arcs;TI"Talking;TI"Complete;TI"Trig.Ext;TI"
+L-110;TI"	J3rk;TI"PT;TI"MeeBlip;TI"
+Anode;TI"
+Vedic;TI"Scapes;TI"
+13700;TI"
+Verde;TI"	Lamp;TI"Euro-Duino;TI"
+CTACT;TI"MA/;TI"Synthcube;TI"Tedium;TI"	WP20;TI"synthCube;TI"PCB;TI"DP;TI"Circle;TI"	Jerk;TI"Off;TI"13B;TI"Autobend;TI"	MISS;TI"LFO/Noise/S&H;TI"A-129-4;TI"MME;TI"CrossOver;TI"Standard;TI"PEQ;TI"Neuron/Difference;TI"ADDAC203;TI"	That;TI"Vca;TI"'Em;TI"Up;TI"
+Boozy;TI"	Bank;TI"PHASER;TI"8-Step;TI"WST-E1;TI"
+KOBOL;TI"ADDAC501;TI"HAL;TI"Dynamic;TI"Destiny;TI"Logistics;TI"AT;TI"	16x4;TI"Att-Off;TI"AT-AT-AT;TI"Jedonian;TI"tbDSP*;TI"Voltage-Controlled;TI"Cheeks;TI"	LEFT;TI"	KOMA;TI"KOMMANDER;TI"
+RIGHT;TI"STRYMON;TI"EL;TI"CAPISTAN;TI"Kabelh√§nger;TI"	259r;TI"Eowave;TI"√©tages;TI"
+MIGGS;TI"Twisted;TI"Electrons;TI"Octopus;TI"bob;TI"bamboo;TI"spacer/bracket;TI"Buranelectrix;TI"Dredrum;TI"MARSHA;TI"
+A-190;TI"
++Hold;TI"+Shuffle;TI"
+SP-1P;TI"Express;TI"Sequentix;TI"Metatron;TI"618;TI"	XR22;TI"Noise/;TI"Stepper;TI"TikTok;TI"PGM-4X4;TI"	VCO1;TI"MOTM-830;TI"Dual-Mode;TI"	275r;TI"	296r;TI"Autiolab;TI"	Hall;TI"Cunctator;TI"A-110-2;TI"Offset;TI"A-138u;TI"	AXIS;TI"
+S-180;TI"
+S-181;TI"Outs-8;TI"Individual;TI"	outs;TI"
+M-012;TI"Invertor;TI"
+M-240;TI"Velocity;TI"
+M-260;TI"	Thru;TI"
+U-010;TI"Shifter/amplifier;TI"Expand;TI"
+U-110;TI"Attenuator/CV;TI"
+M-220;TI"Synchronizer;TI"
+M-210;TI"
+P-110;TI"Gate/trig;TI"switchable;TI"
+S-182;TI"outputs;TI"
+S-188;TI"shuffler;TI"
+S-190;TI"distributor;TI"Anlaog;TI"A-129-5;TI"UTILITY;TI"BY;TI"LOWDESIGN;TI"PROJECT;TI"	live;TI"	soup;TI"1/2;TI"
+combo;TI"	Even;TI"	OPTO;TI"
+Orage;TI"
+Windy;TI"HAX;TI"Fluctuations;TI"Magn√©tiques;TI"C-3;TI"Rev;TI"uZeus*;TI"	NCS1;TI"	NCS2;TI"TPS;TI"NCS;TI"	Juno;TI"CFM;TI"	BHWR;TI"Mk.;TI"PSIM-1;TI"
+DPLPG;TI"
+Sauce;TI"	Unce;TI"1/4;TI"	Mo.s;TI"703;TI"E;TI"708;TI"360;TI"206;TI"P√¥les;TI"RS-510E;TI"Trapezoid;TI"924;TI"
+Whale;TI"[MINI-ARP];TI"[CVTOOLS];TI"	[LPG;TI"	ATT];TI"
+[FBP];TI"
+[CVP];TI"[WAVEFREAKER];TI"
+[MOOG;TI"	VCF];TI"[MODEL;TI"	258];TI"nw2s::io;TI"REVERSIBLE;TI"280;TI"217;TI"260;TI"264;TI"	249e;TI"Multiklon;TI"multiladder;TI"CurrentRack;TI"Sprott;TI"
+Swoop;TI"
+Denum;TI"Fourses;TI"wavefolder;TI"cp3;TI"015;TI"VCA/MIX;TI"Cyclops;TI"Vulcan;TI"
+U-030;TI"Gate-to-Trig;TI"
+U-020;TI"eg.;TI"041;TI"	4VCA;TI"31B;TI"Sommateur;TI"X6;TI"Cranial;TI"Collapse;TI"
+A-130;TI"Soundscape;TI"Processor/Generator;TI"60B;TI"LowPassGate;TI"BOOLEAN;TI"24B;TI"	C905;TI"
+Entry;TI"
+Point;TI"	525M;TI"CP;TI"564;TI"	Xanu;TI"3-BAND;TI"SPLITTER;TI"
+DIODE;TI"
+VCO-S;TI"	M104;TI"	STEP;TI"103;TI"BPM;TI"BUTTON;TI"acGristle;TI"
+temps;TI"
+utile;TI"GFX;TI"01;TI"02;TI"03;TI"04;TI"Ostankino;TI"05;TI"07;TI"E-TRET;TI"
+D-Mux;TI"Sockets;TI"Geometry;TI"	.vca;TI"Mini-Sequ;TI"	PCV3;TI"	PCV1;TI"AT2;TI"Moon/JLR;TI"569ESL;TI"A-134-1;TI"
+Glide;TI"ol;TI"
+HDH-6;TI"
+VDL-6;TI"Multitype;TI"Kermit;TI"Slender;TI"SAMPLING;TI"MODULATOR;TI"007;TI"	2032;TI"254;TI"258;TI"	2270;TI"	FS1a;TI"
+SQ816;TI"Tap;TI"Mixer/Splitter;TI"344;TI"MS;TI"192;TI"
+BMC24;TI"Gearbox;TI"ADSR-VC2;TI"
+1Song;TI"Multi-Window;TI"Multipass;TI"	42hp;TI"Commodore;TI"64;TI"7";TI"TFT;TI"Monitor;TI"Significant;TI"BMW;TI"FD;TI"COMMODORE;TI"nSIDeus;TI"
+A-131;TI"Strongcat;TI"Meow-Tiple;TI"3-In-AND;TI"OR-Gate;TI"MiniPWR;TI"DI;TI"hexinverter.net;TI"Walnut;TI"
+Dalek;TI"
+Z√©ro;TI"Continuus;TI"Crystal;TI"Carousel;TI"	A175;TI"	Alum;TI"500;TI"525;TI"	512c;TI"505-DI;TI"ESX-4CV;TI"527;TI"	550A;TI"	550b;TI"560;TI"5B1;TI"2264ALB;TI"1073LB;TI"1073LBEQ;TI"88R;TI"LB;TI"EQ5;TI"EM;TI"
+AM660;TI"PRE;TI".E;TI"
+54F50;TI"AEA;TI"RPQ500;TI"E27;TI"SEQ-03;TI"Awesome;TI"
+1073D;TI"
+CVGT1;TI"	502P;TI"B1;TI"Elixir;TI"
+Devil;TI"Falcon;TI"Nvelope;TI"
+EL-DS;TI"DerrEsser;TI"	M502;TI"Harrison;TI"	32EQ;TI"Record;TI"69-500;TI"JR;TI"	NEOX;TI"	Brat;TI"V10;TI"Clariphonic;TI"6X-500;TI"EQ2;TI"One;TI"Sync-Gen;TI"	IILS;TI"DRS-1R;TI"Action;TI"551;TI"Vandergraph;TI"MBC502;TI"Level-Or;TI"MB1;TI"Blender;TI"	EQ5P;TI"TB12/500;TI"Tonebeast;TI"Xpressor;TI"Xfilter;TI"DDL-500;TI"42;TI"
+black;TI"
+Komp5;TI"	CLOQ;TI"	Gold;TI"MP2;TI"MP5;TI"EZ1073-500;TI"Silver;TI"Realios;TI"
+A9031;TI"
+A9033;TI"EM-PEQ;TI"
+A9052;TI"Mk2;TI"TLCompressor;TI"P-1;TI"XF;TI"	COMP;TI"CX;TI"RPA;TI"542;TI"EQF;TI"	Mono;TI"Lancet;TI"	Dock;TI"B1D;TI"	EXBB;TI"Essence;TI"Potion;TI"J;TI"
+Tonic;TI"MA5;TI"Q108/2;TI"ADDAC501B;TI"	.DIV;TI"Obsidian;TI"TG2-500;TI"Insigna;TI"Mic;TI"Pre;TI"
+EL-Rx;TI"DocDerr;TI"MP-500NV;TI"ADDAC102;TI"
+Radio;TI"PWM-501;TI"
+'73EQ;TI"1073/500;TI"	243v;TI"Pulser;TI"Optograph;TI"	Gama;TI"
+611EQ;TI"611DYN;TI"
+Hippo;TI"676;TI"Synth/Filter/FX;TI"RNC;TI"	RNLA;TI"Stretch;TI"
+A-011;TI"log;TI"
+S-187;TI"Clock/Trig/Gate;TI"
+A-012;TI"
+U-201;TI"	Hz/V;TI"
+V/oct;TI"
+U-202;TI"OSC-02;TI"800;TI"S-Type;TI"Clouds;TI"	511D;TI"	E620;TI"	Host;TI"	Roll;TI"Tubule;TI"RMS5A7;TI"Mixbuzz;TI"VOG;TI"GIX-51X;TI"
+Gyraf;TI"	tube;TI"preamp;TI"Skibbe;TI"Flickinger;TI"
+736-5;TI"pre;TI"	525b;TI"554;TI"parametric;TI"PSEUDO;TI"STEREO;TI"
+D-LFO;TI"Fictus;TI"eurotrash;TI"Faceplate;TI"Meadowphysics;TI"3,5;TI"
+ARP-8;TI"Colour;TI"Saturator;TI"
+FSH-1;TI"
+Sismo;TI"VGA;TI"Performance;TI"RESONANT;TI"THRU-4;TI"API;TI"AJH;TI"Minimod;TI"FIlter;TI"Contour;TI"Generators;TI"A-132-2;TI"	PH-4;TI"Cascaded;TI"	NV73;TI"	mkii;TI"	U76A;TI"569EGL;TI"AIO;TI"	Sequ;TI"303;TI"4-Channel;TI"
+LFO-2;TI"JLM;TI"
+LA500;TI"FET/500;TI"Revision;TI"LAZ;TI"VCEQ-3;TI"EQN;TI"TB;TI"TB550A;TI"Electra;TI"Allstars;TI"EQP-1S5;TI"
+C962C;TI"
+VCO-6;TI"
+CGS60;TI"	C916;TI"
+C962B;TI"blabla;TI"	qVCF;TI"XR-VCO;TI"CV-Prozessor;TI"A-143-9;TI"Bamboo;TI"	knob;TI"SSM;TI"Rubber;TI"
+Bands;TI"Triton;TI"D2O;TI"Doublewide;TI"EQ4;TI"	bus1;TI"voltmeter;TI"invertor;TI"R-54mk2;TI"MOTM-600;TI"
+9113U;TI"quadcp3;TI"dualslew;TI"	R-55;TI"moon591;TI"Horstronic;TI"LittleMix;TI"Patcher;TI"Modulo;TI"
+Optic;TI"	.PRI;TI"SWITCHED;TI"ADAPTORS;TI"MONITOR;TI"Playable;TI"Delay1022;TI"Patternizer;TI"Bunch-a-Klox;TI"A-132-3;TI"
+8NU8R;TI"Snare8;TI"	KIK8;TI"
+HATS8;TI"Juno-106;TI"	553F;TI"VTC;TI"
+LC53A;TI"	Love;TI"
+Child;TI"VBrazil;TI"Aether;TI"MultiLFO;TI"Serpent;TI"SB4001;TI"Zeitgeist;TI"Mutagen;TI"	TB12;TI"Rascal;TI"
+Two-V;TI"zz;TI"Nervous;TI"Squirrel;TI"Klangbau;TI"
+K√∂ln;TI"Ultrafade;TI"	2612;TI"	MS20;TI"JHLivingVCO;TI"Phatty;TI"SQ8;TI"6-input;TI"
+unity;TI"Telemark;TI"Phatty//;TI"A-160-2;TI"	HYVE;TI"Chorus-106;TI"SY1;TI"Synesthesia;TI"A-110-4;TI"
+QZVCO;TI"
+ŒºMod;TI"ENHANCER;TI"
+Speak;TI"	Read;TI"Trig-b;TI"i;TI"Microphonie;TI"
+volca;TI"euromounted;TI"Trunks;TI"XV;TI"AM8125;TI"
+arpie;TI"Kraftwerk;TI"George;TI"Bob;TI"
+Scott;TI"Lee;TI"	John;TI"Simonton;TI"Suzanne;TI"
+Ciani;TI"Tangerine;TI"
+Dream;TI"	Leon;TI"Theremin;TI"
+Tonto;TI"
+Cecil;TI"
+Wendy;TI"Carlos;TI"Depeche;TI"
+Brian;TI"Eno;TI"Giorgio;TI"Moroder;TI"	Hans;TI"Zimmer;TI"
+Keith;TI"Emerson;TI"Herbie;TI"Hancock;TI"A-132-4;TI"ADDAC503;TI"Marble;TI"Physics;TI"CGS775;TI"37;TI"ELF;TI"Ringmod;TI"	mh31;TI"vc;TI"
+A-133;TI"
+Hhite;TI"Wooglebug;TI"RS-120;TI"	Comb;TI"RS-600;TI"Drum-05;TI"Drum-06;TI"Drum-07;TI"Drum-08;TI"Drum-99;TI"Drum-04;TI"SwitchMix;TI"R51;TI"Gre;TI"ADDAC101;TI"A-134-2;TI"LM4250;TI"
+Warna;TI"
+Bytom;TI"RS-380;TI"Gozinta;TI"	MX61;TI"ADDAC803;TI"Roland;TI"
+A-166;TI"CV8;TI"	SY02;TI"RS-230;TI"BMC001;TI"Jumbler;TI"SV;TI"Lamp-1;TI"Positronic;TI"Transient;TI"RS-440;TI"BBD;TI"	Flop;TI"
+RS-40;TI"RS-170;TI"IMP;TI"MSU;TI"
+Funky;TI"Drummer;TI"RS-290;TI"A-137-2;TI"RS-295;TI"MB4;TI"
+E350x;TI"	Invy;TI"Fragments;TI"
+ED114;TI"	4027;TI"A-138a;TI"38;TI"38A;TI"ADDAC502;TI"Lissajous;TI"Nchunk;TI"RS-180;TI"
+RS-85;TI"A-138b;TI"MS-812;TI"Synthetic;TI"	2260;TI"RS-310;TI"Reverb/Chorus;TI"Pitchshaper;TI"Gravity;TI"	207e;TI"	210e;TI"A-138c;TI"	222e;TI"	223e;TI"	225e;TI"	227e;TI"	230e;TI"	250e;TI"	251e;TI"	256e;TI"	259e;TI"A-138d;TI"	266e;TI"	267e;TI"	272e;TI"	281e;TI"	285e;TI"	291e;TI"	292e;TI"	296e;TI"	206e;TI"A-138e;TI"297;TI"	Q101;TI"	Q102;TI"	Q103;TI"	Q104;TI"	Q105;TI"	Q106;TI"	Q107;TI"	Q108;TI"	Q109;TI"	Q111;TI"	Q112;TI"	Q113;TI"	Q115;TI"	Q116;TI"	Q118;TI"	Q119;TI"A-138xa;TI"	Q120;TI"	Q121;TI"	Q122;TI"	Q123;TI"	Q124;TI"	Q125;TI"	Q128;TI"	Q130;TI"	Q131;TI"	Q132;TI"	Q133;TI"	Q134;TI"	Q137;TI"	Q138;TI"	Q141;TI"	Q142;TI"	Q143;TI"	Q146;TI"
+A-139;TI"	Q147;TI"	Q149;TI"	Q150;TI"	Q161;TI"	Q162;TI"	Q171;TI"	Q172;TI"	Q960;TI"	Q961;TI"	Q962;TI"	Q963;TI"
+A-141;TI"modDemod;TI"	[v1];TI"
+ED120;TI"Chaotica;TI"144;TI"A-142-1;TI"160;TI"165;TI"166;TI"171;TI"196;TI"207;TI"A-142-4;TI"250;TI"255;TI"266;TI"296;TI"ZOe;TI"PendulumRatchet;TI"
+K4816;TI"	254v;TI"	258v;TI"	262v;TI"	288v;TI"monotron-E;TI"Chords;TI"A-143-2;TI"QUAD-DECAY;TI"C03-Eurorack-Adapter;TI"VCO-Light;TI"DUAL-SHAPE-LFO;TI"QUINT-LFO;TI"QUAD-CV-LFO;TI"C301-VCF-VCA;TI"A-143-3;TI"QUAD-PROBABILITY;TI"STONEHENGE-VCF;TI"3379-VCF;TI"2044-VCF;TI"C306-Classic-VCF;TI"QUAD-VCA;TI"DIGI-NOISE;TI"TOOL-ONE;TI"C602-Fine-Tool;TI"SWITCH-TOOL;TI"CLOCKDIVIDER;TI"CLOCKSEQUENCER;TI"DUAL-MIXER-2x4;TI"DUAL-RINGMODULATOR;TI"DUAL-S&H;TI"C806-Wave-Crush;TI"CV-PHASER;TI"MULTIPLE;TI"
+C1670;TI"Ensemble;TI"
+C1680;TI"
+A-144;TI"	C946;TI"	C958;TI"	C963;TI"	C101;TI"782;TI"VC-LFO;TI"	311A;TI"
+904-A;TI"
+904-B;TI"	High;TI"
+904-C;TI"Coupler;TI"
+921-A;TI"Driver;TI"
+921-B;TI"922;TI"923;TI"992;TI"Controls;TI"'A';TI"CdS;TI"	VCFA;TI"
+Delta;TI"	MA20;TI"QuadMultiple;TI"	1020;TI"	1200;TI"
+A-146;TI"	1250;TI"	1260;TI"JJP;TI"Samplecorder;TI"	1450;TI"IV;TI"Digibuff;TI"Masterclock;TI"Mathtrigseq;TI"
+A-147;TI"Quintinvert;TI"Trigseq;TI"Balanced;TI"MinMax;TI"	VCEG;TI"Reversible;TI"
+A-148;TI"526;TI"MidiCV;TI"553;TI"563;TI"	565E;TI"568;TI"	568A;TI"Assistant;TI"A-149-1;TI"	568P;TI"Programmer;TI"569;TI"
+569ES;TI"Set;TI"591;TI"	Deep;TI"Journeyman;TI"A-149-2;TI"MultiMix;TI"Slim-VCO-A;TI"Slim-VCO-B;TI"Add-on;TI"
+A-150;TI"Mini-Store;TI"Fourmix;TI"120;TI"Sub-Octave;TI"
+¬µVCA;TI"300;TI"
+A-152;TI"310;TI"420;TI"510;TI"WaveWarper;TI"830;TI"940;TI"410;TI"730;TI"
+A-154;TI"	Test;TI"900;TI"2u;TI"TimeMachine;TI"
+A-155;TI"
+burst;TI"master;TI"	Freq;TI"UEG;TI"	Adar;TI"A-101-3;TI"7U;TI"Bridechamber;TI"Doomsday;TI"TLN-428;TI"FFB;TI"arp;TI"Boolean;TI"
+A-160;TI"3x1;TI"9B;TI"	4075;TI"Low-Pass;TI"36B;TI"	48db;TI"67B;TI"44B;TI"AHDBDSR;TI"64B;TI"57B;TI"68B;TI"21B;TI"69B;TI"
+A-161;TI"56B;TI"72B;TI"TouchSeq;TI"58B;TI"71B;TI"49B;TI"CEM;TI"29B;TI"53B;TI"
+A-162;TI"30B;TI"23B;TI"FS;TI"65B;TI"18B;TI"27B;TI"40B;TI"46B;TI"VDO;TI"62B;TI"45B;TI"
+A-163;TI"
+DADSR;TI"04B;TI"41B;TI"Flanger;TI"38B;TI"39B;TI"
+4Pole;TI"Highpass;TI"15B;TI"X/Y;TI"32B;TI"05B;TI"63B;TI"22B;TI"48B;TI"A-164-1;TI"10B;TI"07B;TI"01B;TI"Timbre;TI"06B;TI"50B;TI"20B;TI"03B;TI"61B;TI"55B;TI"
+A-165;TI"35B;TI"Vco;TI"70B;TI"47B;TI"54B;TI"34B;TI"X-Fade;TI"COTA_VCF;TI"Control_3;TI"Equinox;TI"
+A-167;TI"VC-ADSR_VCA;TI"MidiDAC;TI"
+A-170;TI"
+VCO-B;TI"Triple_LFO;TI"Triple_VCA;TI"VC_LFO;T:sentences[ê[ [i i[i[i[i	[i
+ii[iii[iii[	iiii[i[i[iii[	iiii[iii[i[i[ii i![	ii"i#i$[	ii%i&i$[	i'i(i)i$[i*[ii+i,[	ii-i.i/[i0[i1[ii2i3[ii4i5[i6[i7[i8i.i9[i:[i;[i<i=i[i>i<i?[i@[i<iAi[iBi<iCiDiEi[i<iFiG[iHiIiJ[iKiLi[	iMiNiOiP[iQ[iR[iSiT[iU[iV[iW[i.iXiY[iZiDi[[
+i\i]i^i_i`[ia[ibic[idie[	ifigihii[ij[ik[il[im[inioip[iqioip[irioip[is[itiO[iui[i.ivi[iw[ix[ix[iLiiy[iLiiz[i{i$[i|i}[i~[ii{[i|i}i~iiÄi_[iÅiÇ[iiÄi_[iÉi=iÑ[iÖ[iÜiá[iài]i_[iâ[iä[iãiåix[içiéiè[iêië[iíiì[iî[iï[iñióiò[iôixiö[iõ[iú[iùi[iû[	iüi†i°i¢[i£[i§i•iò[iBi<i¶[i<iß[i®[i©[i™i9[i´i¨iì[i´i≠iì[i´iÆiì[iØi∞[i±i≤i$[i≥[i¥[iµi∂iá[i∑i.i∏[iπi$[i∫i[iªiº[iΩiæ[i9[iø[i¿[i¡i¬[i√[iƒix[i≈i∆i«[iBi9[i»i…i$[i iÀi$[iÃ[i.iÕi¥[iŒ[iœi–i—[i“i$[i”iHi¶[i[i‘[i’[i÷[i◊[iÿ[iŸ[i⁄[i€[i‹[i›iﬁ[iﬂi‡[i·[i‚[iåiI[iåiGix[i„[i‰[iÂiÊ[iÁiGix[iÁi¶[	iËiÈiÍiÎ[	iÏiÈiÂiÎ[iÎi[iÌ[iÓ[i.i∏[iÔ[i.i[i.iò[i.iÒiÚ[iÛiÙ[iı[iˆi˜ix[i¯[i˘[i˙[ii˚[i¸[iÍiÊ[i˝i_[i_i˛[i_iˇ[i iiy[i iiz[iix[	iiii_[iBiò[ii¶[i[ii i[i´i	iì[	i
+iii[iii[ii[	iiii[
+iii~ii[	iiii[	iiiDi[i i![i"[	i#iLiÁi$[i%[i&[i'i(i)[iÁi*ië[i'i+[i'i,[i'i-iz[i'i.[i/i0[i1[i2[i3i4i5[i6[i7[i8i9i:[iHi;[iSi[i<i=i>[i?[i@iA[	iBiLiCiD[iE[iFizi$[	iGiHiIi¢[iJiKiò[iL[	iMiiNi[	iOigiPiS[iQ[iR[iS[iTiUi$[iViW[iXiYi[iZi[i¢[i\[i][i^i_[i`[
+iaibicidiá[ieifiì[ig[	ihiiijik[ili.iò[im[iåiNi[iXiYin[iXiYi9[io[i\[ipiqir[isit[	iuiiiv[iwix[iyi$[iz[i{[i|[i}iy[	i~i_ivi[	iÄi_iÅiÇ[	iÉiÑiÖiá[iÜ[iá[	iàiâiäiÊ[
+iãi=i iÙiå[iç[ié[iè[	iêi=iëir[	iíi=iìi[iîi9[iïiñi[ió[iò[iôiö[	ihiiiif[iHiõi$[iú[iB[ii}[iùi$[iiû[iüi}[i†i°i9[i¢[i£ië[i§[
+i•i.i5iDi¶[i.iß[ibi®[ibi©[i™[i´[i¨[i≠[iÆ[iØ[i∞[i±i$[i≤i≥i¥[	iµi∂i∑i∏[iπi∫iª[iº[iΩ[	iæi=iøi¿[i¡[i¬i√i˜[iƒ[i≈i∆iá[	i«i»i=i…[i [iÀiÃ[iÕi∏[iŒ[iœi–i—[i“iá[i”[i‘[i’[	i÷i◊i√iÇ[iÿ[iŸi[i:[i	i⁄[i€i≥i¥[i‹[iÕ[iŸ[i‹[i›[iﬁ[iﬂ[i‡[i·[i‚[i„[i‰[ibiÂ[ibiÊ[	iÁiËiÈiÍ[iÜiá[iªiÎ[	iÏiÌiië[iÓi[iÔiiÒ[iÚ[iÛ[iÙ[	iıiˆi∂i[i˜i¯i˘[i˙i˚[i¸[i˝i˛[iˇ[i i[i≤i≥i[iiBi[iii[iiÖi$[i	[i
+[i[i[i»i…i$[i[iii[i[i[ii[iz[iii¢[i[i[ii[
+iiiiip[	iiiNi [	i.i!i˚i[i"[i#i$i%[i&[ibi'[i([iNi [i)[i*i+[
+i i,i=i-i.[
+i/i0i=i.i1[i#iÁi2[	ibiYi3i«[i4i5i6ixi~i7i8[	i9i:iSi[i;[i<[i=i>[i?iw[i@iAiw[iBiCiD[iE[iE[iFiG[iåiNiH[iIiJ[
+iKi<i°iDi_[iL[	iMiDiNi¢[iBi<iI[	iBi<i–i$[i<iO[i<iPiQ[i<iO[i<iÑ[iR[iSiÁiT[	iﬁiUi∂i[iVi$[iWiXi$[i.i°[iYiZ[	i[iSi\i][i^[i_[i#i⁄[i`[ia[iôib[ic[	idiziie[ifigih[i.i[iiiik[iLijik[iiDi[iái=il[im[
+i˜i=iHiõin[i∏i«i[ioi[ipi=i[iq[ir[isit[	iuiivi [
+i˛iwixiyiz[i{i=i|[i}[	i~iiÄi[iÅiÇiÉ[iÑ[iÑ[	iÖiÜiáià[iÅi[im[iâiìiä[iâiìiã[	iâiSiìiå[	iâiSiìiç[	iâiSiìié[	iâiSiìiè[	iâiSiìiê[	iâiSiìië[iËií[iìiˇiy[i∏[iî[iï[iñ[ió[iò[iô[iöiõ[
+iúi=iùiGix[i.i˜[iû[iü[i†i°[i¢i£[içié[	iìi§i•i¶[iß[iYi®i©[i™i´[i$[i¨[i≠i=iÅ[
+iÆiØi=i∞i±[
+iÆiØi=i≤i±[i≥[i¥iO[i[iµi=i∂[i∑i⁄[i∏[i[iπiÖiá[i∫[iªiº[iΩ[iæir[	iøiÁi6iv[i¿i¡[i¬[i√[iƒ[i≈i=i∆[i«i»[i«iòir[i…[i iÑ[i iÀiv[iÃ[iÕ[i4i5iDiåiŒi=ibiœ[i–[i—[i“[i”[i«i‘[	i’i÷i◊iÿ[iŸi⁄[i€[i‹[iGi›[	iGiﬁiﬂi‡[i·[i‚[i„i‰iI[	iàiÂi¢i[iàiÂiÊ[iìipiz[iÁi=iË[	iµi∂iÈiá[iÍ[
+iÎiÏi=iki}[i![iÌiˇ[iÓ[iÔi[i[iÒiÚiz[iÛiÙ[iıiˆiz[i{[i˜[i¯[i˘[i˙i iv[i˚i¸i¶[i˝i˛iˇ[i [i[iir[
+ii=iiÒi[iÁi[ii[i	[i
+[iii[iir[i[i[i[iìipi5[i[i[i[iu[i[ii9iii~ii=[i[ii[iii$[i[iÎi[i[i`i≥i[i`i≥i [i`i—[i`i≥i!i~i≥i"[i#[i$[i%iﬁiÊi&i'i[
+i(i&i)i*if[	i+iiDi,[	i-i.i/i0[ibi)i$[i1i2i[i[i3[i4[iÏi5[ii¬i6[i:i7[i8[	ii9i:i;[i¢i<[i=i>i?[ibi@iAiBiCi$[
+ibiDiBi$iE[iπi$[iªiº[i∫i[i[iFiG[iH[iNiI[iJ[iK[ix[	iLiÀiMi_[iLiN[iOiPi$[iQ[iR[iSiT[iU[iViW[iX[iYii[	iZi[i\i][i^i\if[i_i`[i\[ia[ib[ix[i9in[ic[idieif[i_[ig[iàiÅi¥[iiˇ[iiˇ[ihir[ihiriv[i[iii=ij[ikiv[il[imix[ini[ioip[iq[iG[iriîiái∑iSiTis[	iTi=i{i$[iti=iu[iviá[i≈i∆i$[iwixiy[iz[i{[i|i_[i}ix[iLi~[i[ip[iÄiÅ[	iÇiÉiÑiÖ[iÜ[iáià[iâ[ix[iªiäiã[iåiç[ié[iè[i.i$[iêiˆiw[iêiˆiw[ië[ii[iíiì[iîiï[iNiO[iNiO[iñió[iò[iôiö[iõi$[iúi`[i*[iù[iû[iü[ii[i†[i°i¢[iji[ixi¶[i£i[i˜ii<[i§[iˆiç[i¥i}[i.ii˜[i˙i˜[i9[i•[i@i¶[ißi[i®[i©[i™[i∏[i iÑ[i´i$[i[iNi∂[i.i¨[i≠iá[i.iÒ[i.i“iÚ[iviÆ[iXi[iGix[iØ[i∞[i±i[iÆi[i˚i≤[iñióiz[i˙i±i[i≥i˜[iLiO[iiP[
+ii¥i∑i≥i˜[iµi[i	i⁄[iôiÚ[iôiö[iKi˜[i∂[i∑i∏[iê[i«i»[	iiπi.i˜[	ii∫iªiá[iùi$[iﬁiºi$[i+iΩi1[i[i6iæi[ii«i[iøi$[iFi$[i¿i¡[i¬i√if[iƒi.i9[i≈i.iá[i∆i«[i»i.i˜[i…i.iÁ[i [iÀix[iÃiÕ[iŒixiâ[iœi–i[i—i∂[i“i”i‘[i’i÷[	i◊iÿiŸi⁄[	i€iZi∑i[[i´i‹iì[i›iﬁ[iﬂiÁix[i‡i˜[i·i=i@i‚i=i„i9[ii«iiIi¢is[	i‰i=i≥i˜[	iÂi=i.i˜[
+iÊi=i˙i±i[iÁi=iË[iÈ[	iÍi=iÎiÏ[iÌi=i˙i±iif[iÓ[iÔii¥[i[iËi[i«i[i«iI[iÑiì[
+iiÒi§i)iá[iÚ[iÛ[iÙ[iı[	iˆiii[	i˜iiti¯[
+i˘i˙i˚i¸i˝[i˛[ip[iˇ[i.i[i.i [iNi [	iiiÄi∏[
+iii≥i˜i[iiÄiÇ[iip[iêiˆiw[i[i[i	[i
+i}[
+iiiLivi[i€ii[i[i[ii[iii[i˙i˚[ii'i[i[iwigi[ii[ii[i6[iÔii∏[	iiiiI[i[i i![ii"i#[i$i%[i&i'i([i)[i*i+iá[i,i}ix[i-i˜[i.[i$i%[i/i0[i¢i1i2[i3i4[	i|iåi5i6[iæ[	i7i9i8i9[i:[ii«i[i;[i<[i=i>[i?i@[iA[iB[iCiá[iD[i∂iDi3[iE[iœi˜[iFiG[i∏iﬁi3[i˚iHiI[i9iJ[ibiK[i5[iL[iMiNi [iOi<[iii [iP[iQiRiS[	iTiiRiS[iUijiV[
+iHiõiWi=iX[iYiSiT[iKi˜[iZivi[i[iÎ[	i\i]i^i[	i≠iniDi«[i!i$i[i_i9[i`iuia[ii9ibicidie[if[i€[iigih[iii[i[iji˚iá[ik[il[	i.imiix[inioip[ip[iqir[isiSiI[	itiuiviw[	ixiuiyiÁ[iz[iL[i{i≠iá[i|i∆[i}i~[i[iÄ[iÅ[iÇ[iÉ[iÑ[iÖ[iÜ[iá[ià[i[iâ[iä[iã[iå[iç[ié[iè[iê[ië[ií[iì[iî[iï[iñ[iåiv[ió[iò[iô[iö[iõ[iú[iù[iû[iü[i†[i([i°[i¢[i£[i§[i•[i¶[iß[i®i©ix[i™[i´[iåiI[i¶[iú[iÑ[iÖ[iÜ[iá[	i.iLi¨iv[	i≠iXi«i‘[iÆi[iØiw[i∞i5[iiyi±[i±i≤[i≥i[i¥[iµ[i±i[iØiw[ii∂[i∑i∏[iπi∫[iªi7[	iºi=iˇir[iΩiæiá[iøiti¿[i¡i¬i[i√io[iƒio[i≈[i∆[i«[
+ijiGi~i»i…[i.i iÛ[iÀir[iG[iÃi5[iÕiŒiœ[	i–i—ivi[i“[i≠[i”i‘[i’[iki÷[i◊iÿiŸ[i¯i⁄[i€[i‹i›[iﬁiﬂ[	i‡i·i‚i„[iHiΩ[i‰[iÂ[iÊ[i.ii[i≠i$[iS[iiÁ[i	iË[i	i4[iÈ[iOiDiÑ[
+iÍiîigiwi9[iGix[i[iÎiÏiÌ[i£iÓ[iÔ[iiÒ[i$iÚ[iii[iÛ[iÙ[i!iÑiv[i.iÒ[iÁi_[iıiˆ[i∂[i˜i¯[i6[i.iá[i˘[i˙[i.i˚[i9[i¸[ii˝[	i8i˛i˙i˚[iˇ[	iàiâi i9[i¨i[i[idie[iﬁiG[iíi[ii˜ië[ibiii¶i=ibi©iix[ibiii9i=ibiii[ibi\iHiõi	iG[ibi
+i[	ibii ix[ibii.iiHiõi_[i:ii[i[i∂iDi[i[i–[i∏[iá[ix[i˜[ic[i[iﬁiE[iﬁi[i[i[i[iàiâim[ii[i[iNi}[iii[
+iii i!iÆ[ii"i#[i$iÁix[i%iåix[i&iYi'[iii[i(i)i*[iÔi+i,[	i¢i-i!i,[iÔi.i,[i/i0[iÔi1i,[iÔi2i,[i3i4iVi5i|i}[idi6[iii[ii7[i8[iÃiﬁ[i9[i:[iı[i;i<i=i—i>i?i@[i«iA[iBiCi_[iØiG[i›iá[i˜[iD[i¸iE[iFi˜[iGiH[i∏[iI[iˇ[iJ[
+iKitiOi=i'[
+iKitiOi'iL[
+iMitiPi=iN[iMitiPiNiLiO[i|i}i~iiÄi_[i˜iG[iPiQiº[iRiAi[iS[iT[i[iUiVi![i–i$[iπi$[i˘[iW[i[i[iXi.i[iËiY[iZ[i.i[i[[i\[i][i^[ici$[i_i`[iZ[iaib[i˜[	i@i‚i°i9[i`i∏[i`i.i˜[i.ici[idieiT[iXi[
+ifigihi˛ii[ij[	iÁifikil[imiá[in[iÛ[iÅio[iÅiHi¶[ip[iq[i7[ir[iΩiîi9[isi≥i˜[i.i∏[i`i.i˜[i`i∂it[i`iuiP[i`i∏[	iviwixi1[iyi≠i$[iziìi[	i{i|i}i9[i~[i[i[iÄi9[	iÅi_iÁiÇ[i*[iÇ[iÉii_[iÑiÖ[i[iÆiÜiª[ii[iái‘[i<[iài‘[iâ[iGiä[iãidiå[içiéiè[iê[ië[iíiì[iî[iï[iò[iç[iâ[iñ[iÑ[iBióiò[i{[iôiöiõ[iúiis[iùiû[i¸iü[iê[	i>i¥i◊i†[	i°iLi¢i£[i§[i•[	i¶ißi~i®[	i€i‘i.iS[i©i™i´[i¨[i≠[iÆiØiI[i∞[i±i≤[i≥i@[i¥[iµ[i∂[i∑[i∏[iπ[i∫iªi [iº[iΩ[iæ[iø[i¿[i¡[i¬[i˚i√[iNi˜[ii[iHiõiƒ[	i≈ixi#i∆[ii«[iåi»[i…[i [iÀiÃ[iÕ[iŒ[iœ[i–[i—[i“[i”[i‘[i-[iq[	i˙i˚iGiˇ[i’[i÷[iìi◊iÿ[
+iŸi⁄iCi$iì[ii€[i‹i›[i-[iﬁ[i5[iÜiﬂ[iS[	iiLi¨iv[i‡i.i∏[i‡i˜i·[iËií[
+iÅiDiPi‚i„[i‡iá[
+i‰iÂiÊiÁiË[iÈi™i[iiÍiﬂ[
+i'i=iKitiO[ii«i[iiiv[iÎi–i$[iÏ[iÌiÓ[iÌi[iÌiÔ[iÌiiÒ[iÌiiÈ[	i|i}ii_[iÚiif[iÛiÙiı[i£iˆi˜[i¯[i˘[i˙[i˚[i¸[i√i‘[i˝[
+iNi=iMitiP[i¥i˛[iˇ[i [iiµiy[iii[i-i˜[i[ii[iwigi[iı[i«i»i[i«i»i	[i
+[ii[ii[i^i_i[iiSi*[i4iiy[i4[ii[ii[iÎi[iinis[iï[iFiy[i[i-i˜[i.i˜[iôi<[i[iÒiÚ[i[i[	i|i}iiv[i[	i|i}iiv[i$iÚ[iix[i[iii[i¨i i![i[i"[i#i$[i%[	i&i'iái([i)[i*i+i,[i≠i$[i-i.[i/[i0i1iG[	i2i3i.i°[i4i[i5i6iv[	i5i7i“iv[	i5i8i9i:[i;[	i5i<i°i=[
+i5iii>i?i=[i@iBiA[iäië[iB[iC[iD[iE[iFiG[iH[iIiJ[iiK[iiiL[iMiÈ[iiNiO[iPiQiì[iR[iS[i	i¨iÛ[i"[iT[iiU[iV[iï[iW[iXiY[i.iZ[i[i\iá[iÃi+[i]i~i^i.i_iv[i3iFi.i°i`iˇ[	iaibi9iz[iViW[ip[ic[id[	i-i.i/i0[iBiCi_[i˚[i˚[ie[i[if[iLi«ii=ibig[ix[	ihiiieij[iki.i∏[
+iiliFiiÁ[i_imi¢[iki.i∏[iFiò[
+ini=iÊiviì[
+ioipi=iqir[i≥i?i˜[	isiEi$it[i∂if[iuivij[iwi9ix[	iwi5i~iy[	iNiziòi{[i|[
+i}ii~iiÄ[i.iNiò[iíiìiÊ[i∏[iÅ[iÇiÉ[iÑi3i![iÖiÜ[iáià[iâ[iäiã[i¢iå[içié[ièiê[iΩië[iΩií[iìiî[iHiï[iñ[ibig[ió[iò[iôiöiõ[iúiù[	iûiüiji$[iR[i†[i°[i¢[	i¨iti£iì[i§i
+i˜[i•[	i§i¶i˛iá[i§i[	i§ii¢i$[i§ißix[i®[i©i~i[i™[i´[i¨iÎ[ii≠[iÆ[iØi∞i±[i≤[	i≥i=i¥iµ[i∂i~i.i∑i∏i=ibiπ[ibi∫[iªi6[iniº[iΩiæ[	iöiøiCi$[i¿i¡[i¬[i¬iv[	i√iiƒi[i≠ii≈[i≠i∆i{[i„[
+i«i»ibi…i[i [iÀ[iiÃ[iÕis[iŒi[iœ[i–[i'iLi—[i“[i”[i‘iD[	i.iLiCi$[i’i÷[i◊iÿ[	ii.ii[
+iŸi⁄i€i‹i›[iÓ[
+iŸi⁄i€iﬁi›[iﬂ[i‡[i·i‚i„[i+i‰i=[iÂ[iˆi˜[i iÊ[iÁiË[	iÈiSiÍiÁ[iÎiÏiÌ[iÓikiÔi¨iiÒi0iì[iÚiÛ[iûiiÙ[iıiˆi9[	i˜ili.iò[i	i¨i[i¯[i˘[i˙[i˚[i¸i˝[iPi˛[iˇii [iiÑi [
+iiiﬁini[	iiiiá[i[	iiKii˜[	i8i	iiE[i
+i[iwix[ii[ii[i∞[i[iØi∞[i[i[iijiv[iiiv[i[i[i'[iWi,[i[iê[i[i[
+i{i|i}ii9[ii[	iii≥i˜[ii≠i$[	i#i	i¨iÛ[iiLi![i[ii[i*i [i![i.iXiY[	iÊigi"iÎ[i#[i$[i%[i&i'[ii([i)i*[iFiNi∏[iÏiNi+[i,[i-[i.[
+iıiˆiLi∂ië[ibiá[ii/if[i‹i›iv[i0i1[i%[i2i3[i4[i5[i6[
+ibi7i≥i i˜[i8[i9[i:[i;i9[i`ii<[ii9[i≥i˜[	iÊigi"iá[i=[i>[i◊iˇi?[i@[iAi.i˜[iB[i˜[iCiVi˘[iDiEi[	iipi5iF[iGiH[iIiJ[iKiLiO[iMiiPiNiOiSi~[
+iiPiwiNi [iQ[iR[iÔiSi+[iÔiSi1[iÔiSi2[iÔiSi.[i{i|iTi–iBiUiá[iiÒi0[iViW[iX[i∆[iY[iZ[i[i\[	i]i.ii[i.ii^[i_[ié[i–i˜[i`ia[ibib[icid[ie[iif[iig[ihiiij[ik[il[im[inir[iª[i.i∏[io[i`i9[i`i∏[i`i.i˜[ipiq[iXiΩ[	iÓi=iLir[	isi=i.it[i¬io[ibiu[ibiv[ibiÕ[iwi,ix[iUiyit[iBizif[iVi{[i|i}iI[i
+ii[ii˚[	i
+iii~[i7iiÄ[iŸisi˜[	iÅi∆i.i9[iÇ[iÉiÑ[iÉiÖi˛[iÉiÖiÜ[iÉiá[iÉiàiE[i»[iÉiâ[iÉibi:[iÉi›[iÉiä[iÉiã[iÉi5[iÉiå[i[iÉi[iÉiç[iÉi[iÉi i[ibié[iùiè[iêië[iíiìië[iîiìië[iíiìië[iï[iñ[ió[i,iò[iô[i≥iö[iõ[	iﬁiúi=iù[i˙i\iÁi~ivi_[iyi≠iá[iûiüi†[i˘[
+iFi<i=iix[ii∞iG[i°[i¢i-i=i¢ii£[
+i§i•i=ii£[i≈i∆iái=ii£[i≈i∆i˜i=ii£[i≈i¶ii=ii£[i≈i∆i∏i=ii£[i≈i∆i9i=ii£[iß[	iPiwi®i6[
+i∂i„iZiDi[[	ibiii[i¯[i[	i.i©ii9[i.iNiò[iài[i™[i“i´[i¨i≠[iÉi∏[iÉiY[iÆi}[iÉiØ[i∞i±iü[i≤[iúi9i≥[i.[i.i˜[i¥[i˙i\iÁi~ivi_iµ[i∂[ia[iÈi6iv[i∑[i·[i.i∏[i›iá[iπ[
+iZiDi[iﬁi[i∫iªiZ[i:iºiG[iΩ[iæ[iø[i¿[io[i∂[i¡[i¬iò[i√[i<[iƒ[i≈[i∆iﬁi˛[i∂[i«[i»[iàiÅii¨i…iv[i [iàiâiÀ[i.iÃ[imi9[iÁiÕ[i`iuiP[i`iuiP[	iiŒiœi–[i—[i“[i”[i‘[i’[i÷[	iaibi9i◊[i˜[i˘iÿ[ii–iv[i>[iŸ[in[i⁄[i€[i‹[ii›[
+iﬁi.iﬂi‡i[iﬁi.iﬂ[i·iz[i‚[iNi}[i„[i£i[i˜iG[i£iˆi˜[	i‰iÂiÊiÁ[	i‰iÂiËiÁ[iÈi(iÍ[i≠iáiy[iÎitiÏ[iÌ[iÓ[iÔiiÒ[iÚi≥iÛ[	iÚiiÙiz[iıi9[iˆib[i˜iåiç[i¯iNiO[i˘i$i[i˙iÁif[i˚i©[i¸ixi¶[i˝iõiö[i˛iˇi [ii[iiΩiI[iÛ[iﬂ[iÒi[iiP[i˙iåif[	iii(ii¢[iiÉ[i[ii[iiÓ[iiH[iVii«ii~i[ii[iÉi[	i	iΩi
+i$[iiŸi[ii[
+iÉi iii[
+iÉi iii[ii∂iq[i3iAi∏[iMitiPiNiLi[iii[i,ii[i[ii‘[ii‘[ii∑i[	iiiwi[iii[iii[iNiÏi[ii [ip[i!i [i"i#i [iR[i$[i%i9i[	i&i–i$i[i'iHiõiici(i¶i◊[iıiˆ[i)[i*[
+iiiiµi[ii+i[i,[i†[i¥i}[i-i.[	ii¸i-i˜[	i/i=i0i1[i2i3[i4i5i∫[i6[	i7i¢i8i$[i9iv[i:[i•[iSi[iHiõi˚[i;[	iDiﬁi/i0[	iDizi/i0[
+i/i0iDi/i0[iåiﬁiv[i<i=i<[	i<i=i<i<[
+i<i<i=i<i<[	i>iﬁiñió[i?[iŸ[i>iziﬁiñióiz[i@iﬁi'[iNiﬁi£[iAiDiB[iCiD[i7[	iEi=iFiG[iiª[iHiﬁiI[iW[
+iiJiNiKiL[iMiniæ[i∑[iNiO[iPiQ[iRiS[iTiU[iiV[iiW[iX[i9iYiZ[iÀi_iL[i[i\[iiû[	i]iiÏi[iî[ioiLit[ii^iI[ioi°[iíiáiÿ[ii[i_iÑ[	ii`ii[	i9iaibic[idiviv[	i9iaibic[ie[ifigih[ibi∫[i˚[iii_[iLiix[ijikil[i3i˜ix[im[iß[iLi_[in[
+ioi=iii[ipiq[ir[isit[iu[iv[iw[ix[iL[iy[iz[i{[i:[i|[i}i∆i˜[i~[ii¢iÄ[iæ[iÅi‘[	ibiÇi≈iI[iÉ[iÉ[iÑi[iı[iÖi[iÜiÃ[iáià[iáiâ[	i|i}iäiˇ[i.iãi∂[i/i0iå[içié[	i≥ièiêi1[i[iôiÚ[ië[	iíiViåiì[i⁄iî[iiá[i|[iŸi≥i˜[i¢i-i!i5iïip[i8[iÜiﬂ[iêiˆiw[iñ[iI[ió[i≈i∆iò[i≈i∆in[iòiôir[iÉio[iöiõ[iúiÁiùiÏi+ir[iûiõ[iüi†iõ[i°iõ[i<iõ[i iiõ[iòiõ[iù[iøi¢ip[i£itiO[	iii\i]i_[	iii_ifiì[iFi+[	iFi∑ii9[	i§i•iáiÿ[	ibi¶i|iá[ißi®iá[i©[
+i'i=iKitiO[	i™i_iviÇ[i´iÁi¨[i
+ii[i≠[iÆiæ[iLiç[iØ[itizib[i:i∞[i±i[i9[iá[i≤i≥[iii[iNi¥[i7[iµ[iµ[i∂i[i∑[i∏[iπ[iS[i∫iª[iÉiΩ[	ii-iSiT[
+iZiDi[i~i∂[iˆi¨iº[iΩ[iiiG[	iæiøi-i.[iiqi[i¿[i˜[i¡[	i¬ii.i[i√[iƒ[i≈[i∆[i«[i»[i-i.[	i≈iIibiÇ[i…[i iíiì[iÀ[iÃ[iBiiÁ[iÕiDi[[i.iòiŒ[i.ix[iœ[i–i6[i»i…i$[ii.i[i—i“[i”[i‘iMi[iBi’i[i÷i@i◊[iÿi˜[iŸ[i⁄[i€[iNi [i‹[i›[iﬁiîiï[iﬂ[i‡[i·i‚[i·i„[i'iL[i¥[i‰[	i:iÂiﬁi˛[iÊi[iÁiËia[i9iÈ[i9i›[iSiò[i5iÍix[iÎ[i∏i=i[iáiÏ[i˜i=i[i[iSi[iÌiÚ[iiÓ[iÔ[iÉiiÒ[iÚiLi∂i~iÛi}[	iÙiDiıiˆ[iBi˜i¯[i<iü[i¥[i˘i iº[	i˙i…i$i[i˚i˜i[	i¸i.ii[i˝i˛i[iˇ[i 	[i	[	iﬁi	ii_[i	i	[iµiNi	[i;i”[i	i[i	[i	[i		[i
+	i	[i	iI[	i	i	i	i—[ii	[i[i’iN[i	iNi [i	i?[i	i9[
+i3i4i	iSi[i\[i	[ii	[iái	[iái	[i	[i	i	i[i%[i i∂[iLi[ii	i	[i–i	[iix[i«i‘[iLi	[iåii	[iÓiv[iåii 	[
+iàiÅi.i¥i!	[i"	[iÜiá[i#	i$	[iÁi*iõ[iBi[ii%	[ii&	[i'	i(	[i)	i=i*	[i.i7[iFi+	i˜[iºi,	[iÁi*[iFi[	i-	ii.	i/	[iû[i0	i[i1	[i$i2	[i3	iÁi¶[i4	[i5	i6	[iBi¨i¥[i7	[	i8	ixi9	i:	[i;	i<	[i=	i>	iˇ[i‚i?	i@	[iA	iÿiB	[	iA	iC	iÍiD	[i∏[i˙iE	i[iF	[i.i}[	i|i}iuiv[i˜iG[iG	ii[	iH	iI	iùiá[	iJ	iK	i{iá[iìiL	[iM	iY[	i3iFiÁi°[	i3iN	iO	i°[iP	iQ	[iR	[i3ii6[	i◊ikiS	i9[i◊ikiÃ[	iT	iU	i¸i5[i∞i5[
+iV	i(iÍi)iH[iM	iI[iM	ip[iW	iX	[iM	iÔiY	[	iM	iûiRiÛ[iM	i(i)[iM	iÔiZ	[i3ii∏[	i[	i i\	i]	[i^	i_	i`	[i^	ia	[	ib	i™ic	iÃ[	ib	iÒid	iá[ie	if	[ig	ih	i[ii	ij	i‘[ii	ivi[	ii	i~ik	iá[ii	i9[iÔi_	iº[	iÔig	iÚi[iÔil	i[	iÔiiÒi0[i◊iki~i	im	i∑in	i[iÒiÚ[
+i◊ikio	ip	i[	i◊ikiÒi[	i◊iki¨i[	i◊iki±i[	i◊ikiNi∂[
+i◊ikiíi{iá[i3iivii~iq	[ir	is	ir	iÒi~it	[i#i$[i◊iki~i	i.i!i˚i[	iu	i9i=iv	[iàix[i*iﬁiv[i#i¥[i€iøiw	iDi‘ix	[i◊iìi?[i€iy	[iz	i≥i![i{	[i|	i}	[i~	[i	[iä[iÄ	[	ib	iÅ	iÇ	iÉ	[iÉi¨iÑ	iΩiæi≈[iÖ	iÜ	[iá	[i≠i∆[ià	in[ià	iLi_[iâ	[iä	iã	i[iå	iç	[ié	iè	[iê	[ië	i [ií	[i[iì	[i≠iá[iî	iª[i„[iï	[i¯iæ[iñ	iè[iä	iã	i“[iÁiË[ió	[iPiìië[iò	[iÏiô	[iö	[i3[iõ	i.iú	[	iõ	iNiiù	[	iiii[	i`iû	iü	i†	[iõ	i°	[ii¢	i£	[ió[	iKitiOië[i@[i§	i=i•	iΩiˇiì[
+i3i4iViÜiÃ[	i¶	i iiN[iß	[i7[i®	[i®	[i©	[i™	iiˇ[	iMitiPië[i´	i¨	i≠	[iÆ	iIi∏[iØ	[i∞	i±	[i6iæi[i∂iS[i≤	i6[i≥	[i¥	[iNiLië[iµ	i∂	iá[iriá[i@ix[ii[i∑	i≈[i∏	[iπ	[i∫i.i∫	i¶ibiª	[iº	iˆiy[i˜iG[iº	iˆiz[i'iN[iΩ	[iæ	[iø	[iø	[	i¿	iâi=iI[i¡	[i¬	[i√	[
+iƒ	i≈	iSiiˇ[	iiÍiiÒ[	i`i∂iti∆	[ibi«	i»	[	i⁄iCi$iì[i…	i6i 	[iÀ	iAi∏[iÃ	iÕ	iŒ	[iœ	i–	iI[i—	[i“	iÁiv[i”	[i‘	[i’	i÷	[i:iki◊	iÍiÿ	i◊	iT[iKio[iŸ	[i⁄	[i€	[i‹	[i iÒ[iøiSif[i0iG[ià	i‘	[ià	i”	[	i√iΩiˇi›	[i∏	[iﬁ	i[iﬂ	[iui‡	[i·	[i‚	iõi„	[i‰	iÒix[iÂ	[i°[i∏i~iÊ	iiﬁi∞[iÁ	[iË	[iÈ	[	iàiâi i9[i9iÍ	[	iêiˆiwiÎ	[iÏ	i([iÌ	i[	iniÓ	iÔ	ip[iPi	iL[iPiG[iÒ	iÚ	iÛ	[iÉ[
+iÙ	iHiı	iniˆ	[ibi:i[ibi:[i˜	iÉ[i¯	iµ[i˘	iµ[i˙	i˚	[i¸	[i˝	i˛	iˇ	[i 
+i
+[i
+iùi
+[	ièi~i
+i
+[iiiG[iiÌiˇ[i
+[i
+[	i'iLiNi
+[i	
+iSiT[i
+
+iGi[i
+[iiji[iˇ[i¡iõi
+[i
+i
+[i
+[i
+ix[i
+[	iÎiWiXiá[i	iái
+[
+iàiâi
+ii¢[	iàiâi
+i9[ii‘[i
+[i
+[i˘[iÉi
+[ii
+[
+iÉinii¨iˇ[itiOi=iÑi=i¨[i
+[
+i
+iViBi
+i$[io[iìip[iìip[	ibi
+iNi≤[i
+[i
+[i
+[i
+[i 
+iv[i:[i
+[i!
+i"
+i$[i#
+i$
+[i[ii%
+[iÀ[ii&
+[i'
+i(
+[iµ	i˜[ii)
+[	idi3iviv[iE[iiiG[iiYi'[im[i*
+[i™[i+
+[ii,
+[i-
+[i∂	iá[i`i∏[iäiÊ[iÆ	iùiá[iÆ	i.
+i9[i}[iÁi/
+[i0
+[i1
+i2
+i3
+[i[i4
+[i5
+i6
+[iiò[iHi7
+[i8
+iò[	i9
+iDi:
+i;
+[i<
+[i=
+[i.iôiº[i>
+[i?
+[i@
+[i‘[iA
+[iB
+[iC
+[iD
+iE
+iE[ibiF
+[iD
+iE
+iG
+[iD
+iE
+iH
+[iI
+iLiJ
+[iK
+[iL
+[
+i=iM
+iN
+iO
+iÛ[i@[i”i=iP
+[i”i=iQ
+[iÓ[iR
+[i«i»iS
+[iT
+[iU
+i [i.i˜[i`i[i∂iV
+[i∏[iüiji$[iGi¶[iW
+[iX
+[i"[iY
+[iÈi6iv[iZ
+ihi;
+[i[
+ih[iRi\
+[iRi]
+[iÎi∏[i.i¶[iyi9[i^
+[i_
+[i.i1[i`
+iá[i¨iÛ[ia
+[ib
+[ic
+[id
+[ie
+if
+[i#
+i$
+[	i.ig
+ih
+ii
+[i˘[ij
+[i[i«i[i¥ië[ik
+[il
+[im
+[i¸i∂in
+[iÑ[io
+ip
+[iH[iq
+ir
+[is
+[ijiY[i.iYit
+[ij	[iu
+[iv
+[iw
+[ix
+[iÉiy
+iDiz
+i{
+i[i|
+i}
+[i~
+i}
+[i
+iÄ
+[iÅ
+iÇ
+[im[in[iÉ
+iÇ
+[iÑ
+iÖ
+[iÑ
+iÜ
+[iá
+ià
+[i/iê[iâ
+iä
+[iÄ
+iã
+[iå
+[i4[iwi[im[iç
+[i.i1[ié
+iè
+[i$i%[ißixië[iê
+iAi∏[i7[i≥i˜[iﬁi¶i[ië
+[ií
+iì
+iy[ií
+iì
+iz[ií
+iì
+i5[ií
+iì
+iﬁ[ií
+iì
+iî
+[ií
+iì
+iM
+[iï
+i•	[iRi¡i$[	iiiiñ
+iC[ió
+[iò
+[iô
+[iö
+iõ
+i∏[iú
+iH[iÊiù
+[iû
+iü
+[i†
+iΩi°
+[i¢
+i£
+[ibi@[i§
+[iíiì[i¥[
+i•
+i›i¶
+iß
+i—[i‹i›[i‹i›[iNiO[ili≥i¥[	iàiÅiA	i¥[i®
+[i©
+[	i™
+i˜i~is[iiBi[i´
+[i¨
+[i≠
+[	iÆ
+i.iØ
+i∞
+[i¶	i i±
+[i≤
+iViI[i≥
+[i¢
+i£
+[i¥
+[iµ
+i∂
+[i∑
+i∏
+iπ
+[iyi+i[i∫
+[iª
+[iÿi˜[
+i.i¨i¥iàiÅ[iº
+i[ii«[i≠iá[i»i…i$[i.i°[iΩ
+iHiü[i,
+i©[	iæ
+iø
+i~i¨[iøi$[i¿
+i¡
+i¬
+[i√
+[iƒ
+[iúi¡[	iàiÅi≈
+i∆
+[iiF[i«
+[i»
+[i…
+[i|iˇi?[i|iˇiL	[i 
+iDiﬂ[i5[iÀ
+[	i˘iziÃ
+iÕ
+[iŒ
+iœ
+[i–
+i—
+iº[	i“
+i.i”
+i'[i‘
+i’
+[	i÷
+iHiõi?[	i◊
+iÖi«i[iÿ
+iŸ
+i[	iΩi⁄
+i≥i—[
+i~i€
+ii¨iˇ[
+i~i‹
+ii¨iˇ[
+i~iqii¨iˇ[
+i~inii¨iˇ[
+i~i”ii¨iˇ[iùi›
+[ii_[iﬁ
+[iﬂ
+i‡
+[	i·
+i‚
+i„
+i‰
+[iÂ
+iÊ
+[iÁ
+[iË
+[iÈ
+[i.i[iÍ
+[iÎ
+iÏ
+i¢[iBi<i[	iÌ
+ii.i[iÓ
+iÔ
+[i
+[iÒ
+[iÚ
+[iﬁiÊiÛ
+i'iiÙ
+[iı
+[iˆ
+i¬i˜
+[i¯
+[i˘
+[i˙
+[i˚
+[iÿi˜[i¸
+i˝
+[i˚iLiˇ[i˛
+[iå[i¡
+[i˙i˚iÙ
+[iˇ
+[i i[i[ii[	i.ii iò[i[	ii3i'i[i~
+i[i	[ii°[i
+iı[i[iØ	[iÜi¶iá[iii[i[i9iˇ[i#iˆip	[i#iÒiˇ[	i-i.i/i0[ii[
+iiiiNiò[ii∞iì[iii[i[iiix[i9i[i[i[iìi i[iA[i[ifiL	[ii[iâ[
+iiLi i~iH[iBiıi$[i!i"iá[i#i$i%[i.i&i°[i'iix[iÚiif[i˜[i∞iºiG[i(i)[i*[	i≈i∆ii∂[i+i,[i¸[i-[i.[ii∏[	iiBiÛi[i/[i0i–i[i1i2[iLiLiJ
+[i3[	i4iái∞i∞[i.i5[i6[i%i*iv[i7i„
+[i8[i9[i:[i;[i<ii[i=iLit[i>i?[i@i@[iA[i[iû[iB[iCiDiÎ[iiï
+[	iG	iiiv[iîiìië[iîiêiO[iîiêiO[iE[iF[iGiH[i«i»i=iIiiÆ[	iG	iii[	iG	iiiv[iJi¸[iK[	i|i}iLir[iM[iNiOi~i.i”i~ivi$[	iPiQi¸i¶[iRiGix[ii«i[iSiò[iNiOi~i.i”i~iBiıi$[iBiTi~i.i”i~i˜iai~i1[	iUiôiJiI[	iViWi=in[	iViWi=i[	i8iWi=i[iXiViY[	i8iWi=in[	i8iWi=iZ[	iViWi=iZ[i[iM[i\ipiﬁ[i]i≠iái=i^ipi=[
+iÊixi"i i_[i_[	ii`ii9[iaibi([ic[
+iÁiËiÈidie[	iıiˆiLi∂[ifiir[igiµ[i{i;
+[	i™
+i˜i~is[ihi[ifiir[ii[it[i<iÜij[ik[iNiO[ilimiÛ[inir[iåiIir[io[
+ipii≥iqi„[iri°[iÙiı[iyisi$[iti∂iu[iíi[	iviBiwi[ixid[iåiy[iAi∏[i[i[i*[iiå
+[izi=i{[i|[i}[ii~iﬁiiáiﬁi›iá[	ii	i.iLix[iÄi√iÅ[i	i`iò[i#iiÇ[i¥iﬁiY[i¨i…iv[i3iÉi˜[i[i[iÑiÖ[iÑiÜ[iáià[iâ[iä[iãiå[iaiÂ[i6[ivi_[
+iXiViYiçiˇ[iUiéiI[iè[iêi+[i≠iá[ië[	i+iΩi¡i_[iÛií[	i\i]i&i_[	ibiìiei†[iíiî[iÜiﬂiï[iñi‹	[ióiò[iô[iö[
+i¥iiõioiv[iú[	iíiùii9[iíiùiû[iû[iíiùi$[i5[i3i.iü[iT[i†[iOiSiT[i±i[i°[ii¢[ibi£[i÷iVi§[i!
+i"
+i$[i`i9[i	[i•[iViWi¶[i`iáiv[	i`iáiüij[i	i	iz[i`i.i˜[
+ibißi®iÁi¶[i`i∏[i`i.i–[i`i©iË[
+i`i£iZiDi[[i`iZiDi[iﬁiLit[
+i`iciixiì[	i`ii™iH[	i`ii©ix[i`i∂i[i`iHi°[i„[	i`i´iNi [i`iSi[i`ii¨[	i`i≠i&i_[i`i≠iÆiØi&i_[i`i+[
+i∞i5iö
+i±iN[i≤i≈[i≥[iÙ[iiã[iı[iji[iki¥iµ[i∂iò[iıiˇi [i∑i*[iÛiz[	i∑i∏iiP[iÃiˇ[iπi∫[i[iíi¡iª[iGix[i¸ix[i.iº[i.i±i[i˜iåiç[iµi[iΩiæiø[iái[iB[i˚[i˚[iÒiÚiÈ[i@i¿i$[i`[i¡i¬i√[iƒ[i`iSi[	i`ii©ix[ii_[i`i∂i≈[	iviwiBiH[ii∆iU[iT
+[	i∂i≈i«iì[i§i»i[i…i iyi=i«i„iﬁi˜[
+iÀi izi=i$
+[iÃi iá[	iãi i∂iÕ[iŒ[iÈ[	iœi–i—i“[i”i[i”[i⁄i[	iﬁi	ii_[iIitiO[	i¬ii6iÿ[i«i‘[i‘[i’[iji÷ix[iõ[i◊iÿ[iŸ[i⁄i€[i⁄i‹[iRi›[iﬁiÏi˜[iﬁiÏi˜[i)iﬂiì[i‡i·[i‚[i„[
+i‰i¡iiÂiv[iÊiÁiË[iÈiÍi$[i.iÎ[	iÏi}i=iÌ[	iÓi}i=iÌ[
+iViWiﬁiuiÔ[i[i iLiÒ[i[iÚiL[iÛ[iÛiÙ[iwiıiL[iˆ[iiÒi0[i˜[i	
+[i.i¶[i¯[i˘i_[iôi¥i}[i˙[i.i1[i‚	iõiF
+[i`ii¨[i˚[	i”iΩiˇi›	[i¸[i˝i9[i¸[iá[i¸[iá[i˛i5[iˇ[i.i[iˇ[i[i [i?[ii[i [iiw[i [iiw[i¸[i[i[i«i‘[ii9[ii'[iiiÒ[i[i›[	ii+i]i	[iRi
+[ibi[iHi-[iiá[iq	[ii[iΩ
+iò[iNi [idix[	iiii[iuiO[iÎiì[iüi¶[i[iåix[iåix[ii_iy[iKi˜[iôiÚ[iii[iôiö[iåiŒi[	ii¨i:iì[i#i.i¥[i˚iiv[i[i[iZiDi[[i‘[ii9[iÎi9[ii[iﬁiÏi˜[	i3i.i&iü[
+iÎiﬁiN
+iiè[i[iûiRi[iiiÆ[i [i5[i![i"i#iº[i$i%[iÏi}[i&[iLit[i'[iÑiåi¶[i([i)i*i.	[ii	iji>iiLix[
+iÎiiˇi\iU[i+iUi[iFi)iT[iÁi*iõ[i,[	iÁi*iõi[	i-i=i˚i≤[i.[i≠i[i/it[i0[iÓi}[i i1i=i:iSi[i2i[i3[i4[iˇiriv[iò[i5i˜[i≠iá[iΩ[i6[i7[	i8i9ibi:[i|iÒ[iÁi[ii~i5[i;[i<[i=[i˜[i [i.i”iH[i>[i9iJ[i?[i@is[iÁi˘ië[iå[ijiÒiá[iA[i¢i1i2[iMi1ir[i≠i[
+i3i4iViÜiÃ[iòiª[
+ibi…i.i	iv[ii∫[	iM
+imiix[	ihiiiif[
+iiiDiif[in[iN	iBi°[	iCii.iå[i˚iiÿ[iåiNi[iDië[	iKiHiõi[iE[iF[iiÙ[iG[i~
+i}
+[
+iHi=i iIiJ[i^i_ië[iKiL[i.iMi[i=[iNiOiViPiQi$[i˜iR[iSiTiU[iiVi‹
+[iW[iXib
+iY[iXiZ[
+iXiÍi[iÏi[iXi\[i][i^[	i_i`iiI[iKiÃiI[ia[ibi-i![ic[idi∑iÆ[i§i•[i¢i1i2[ieif[ig[ihiØiI[ii[	i@i‚i°i9[iÙ[ijikik[ili@i9[ili.iá[ili@i«[ili@i[	iviwiim[in[i¢iDië[ioiB[i[
+iipiqiir[iŒiSiT[
+isi∂i~i∏i[i.it[
+iiviÍiiT[iuiV[iv[iKi[iUiiw[	iﬁiUiiˇ[
+ixiyi~iiz[i{i|iÒ[i}iv[iÄ	[i~iiÄ[iÅ[i¡i¬[i˜[
+iiyi$i∑i“[iÇ[iÉ[iÑ[iµ	iÖ[iÜ[iá[ià[i.i¥[iâi+[iäiÍiﬂ[i∞iG[i.in[i6[
+ià	iLi_iiv[iNiziò[iÄin[i±i[iã[	iàiâi˙i¢[	iÎiåiè	i[ibiÔ[iÎiçi [iéi.ièiLi"i«iDiê[iëi|i}i:i=iı	[iëi|i}i:i=iíiì[iîik[iïiLi_iﬁiñi:[iói[iÎi∂	iá[
+iòi.i©ii¥[	iôi.iNiò[iöiõ[iúiùiû[ii[iRi›iz[iüix[iBii˜[iüi≥i[iüiÜiÃ[iüi†[i°[iÉi¢[iBiiÁiiNi£i§ip[iœi•[i¶[ijikiÎ[	iEi_ißi:[i–i«[	iEi_i®i“[i©i$[i™i´[i´i¨[i.i˜i≠[itië[iÆ[iØiYi9[iØiYi∞[i±[i≤iŸ[ii[i≥i$[i≥i$iv[	iôii¥i [iµiÿ[iÎiHi¶[iÚ	[iPiQi$[i∂iå[i¥[i∑iÁi$[ii¥[i.i∏iπ[i<i∫iª[iºiá[i¢i$iΩ[iæiﬁ[iøii_[i§i¿[i¡[i¬ii[i√[iƒi≈[i◊	i∆[	ii	i>iiá[i«iã	i5[i»ivi_[iÉi…[iØiI[i [iÀ[ii'[i iLiÃ[	ii[iÕiò[	iŒigiΩiœ[
+iŒigiΩi–i—[	iŒigiΩi“[iŒigiΩi”i‘i’[i÷[ik[ii.i$[i◊[iCiL[iWid[iÿi:ii¨iziŸ[i⁄[i€i‹i›[i&i-[i§iﬁ[iﬂi‡[iFi[i·i‚[	iKiHiõi[i„[i‰iÂiÊ[iÁ[iÉiË[	iÈi˚i√i¶[	iiiÂiv[	iÍiibiÎ[iÏi9[iiÌi∏[iÓi•[iÔ[i[i[i≠iÒ[i≠iﬁ[i≠ix[iÚiÛix[iÙ[iı[iˆiÜi˜[iˆi¯[i˘iéi9[iãi~i˙[iˆi¸ix[	i˚i.i£ix[i¸[i∂in
+[i˝iøi_[i˛iˇi iiki˝[
+iiiiNi[iiSiÍii®iiT[	iiSiiù
+[iiÁi	[iki
+[	ii.iif[
+iiSiÍiti[iiSiÍii∆iN
+ie[	i.iﬁiÇix[	iiii,[
+iiÁiiki˝[	iiLiti[iiti[
+iißiªi¶	i[iÉ	i≤[i[iLi[iSi[iiP[i∆iC[i∆i‹i˛[
+iiÖiii[inii [	inii i¯[iiÏ[i i!i"[i#i9[i.iY[ii5[	iiii[i$[i%[i%[i&[i'[i(i)[i*iåi[i_i9iÜ[	i·i‚i+iz[iGix[i,[i-[i.[i◊i/[i0iÒ[i1iH[	i2i=i3i1[i!
+i"
+i$[	i	i¨iÛi4[ir[iΩ
+iò[i5[i6[iBiY[i7igi8[ii9iT[i:ibi:[i%i9[i6iæi[i&i$[i;i<[i˚i˜[i˚i˜[	i=i2i∂iS[iíi–i$[iÉ[i]iKi¸ifibi>[	i.ixibi?[i@[iAiBi[	iSiHiõiò[	iCiHiõi[ig	ih	[iæ
+[iÅiD[iE[iF[iGiDiH[iI[iJ[i[iK[iLiM[iNiO[iP[i6ir[ißis[i—iQi∏[iR[iS[iˆ[iÁiŒ[iT[iU[ibiV[iW[iX[iPiQi$[iY[iY[iZ[iŸi⁄[i[[i\[i][i?
+i>
+[i‰iÂ[iA	i^[i_i,
+[i˙iE	i[iri`ia[ib[ici[	idiieie[ifi∞i∞[ig[iº	[ihi¯[	iõ	iiijiV[iÉ[ikil[
+ii«iﬁiLix[	imi∑i≥i9[in[io[ipiq[ii«ir[i≠i˜[iÑiÖij[i.is[itiui[iv[	i8i˛i˙i˚[iNi∂[iFi∂iS[iwix[iyiz[i{iz[i|iò[i}i~[iái[iÄ[iáiÅ[i∏i2[iSiÇiÆ[iSihiÉ[iö[iÑi[iiu[iÖiµiy[iÜ[iáià[iâiiä[iâiiã[iâiiå[iâiiç[ié[iâiiè[iâiiê[iâii≤[iâiiê[iÉi$[iÉië[i˚iíiviNiâiì[iîik[iï[i9[i|iñ[iViWi.[ió[iò[iô[iöiõ[ioijië[i–i	[iú[iiIiy[iùi¶[i	iá[iCi[iï
+[i¿
+iûiü[i¿
+iûi†[ii9[i@i¶i{[	iTi¡i°i$[iÓ[i¢[iQi£[i§i•[i(	[i¶[iß[i®[i©[	i˛iwigiy[i™[iwiü[i´[ii	i¨[iôi≠ii~i.iõ[iÆ[ibiØ[i∞iG[i±[iaiÂ[	ibiii9[iÆ	imi9[
+i3i4iViÜiÃ[	i≤iSiÍi[i≥[i¥[i[iµ[i∂i[i∑i$[	iiÂi∏i[ibi∆iüiji¡i$[iπi∫iI[iπi∫iˇ[	iªiºiΩiˇ[iæi´[ivi_[	iøijiiv[i¿iv[i-[	i¡i∫i¬i4[i√[iƒi≈i[i˜i	[i{[i˜[iLiYi'[	i.i∆i~i«[
+ii∂i»i^ip[iâ[iœi…[	iÔiiÒi0[iÔiwiW[ii«i»[	iÔi:iSi[i ipiÁ[iÀiiˇ[i|i6[i|iS[iÃi[i@iÕ[	iviwii9[i
+[ii$[iàiÅi.i¨i…iv[iŒiÇ
+[iœi–[i—i7[	i∂iti~ia[
+i/i0i=i“iˇ[	i´i”ieiì[i‘[iü[i’[i÷[i◊[iÿ[iŸ[i⁄[i€[i‹[i›[iﬁ[iﬂ[i‡i·[i‚[iÁiŒ[i„iÂ[i‰[i˛iÂi”[iÊi[iÁ[iËiÈ[iÍ[iÎ[iÏimin[iÌ[iÓ[iÛiÔ[i[iÒ[iiÚiS[iÛ[iıi”[iÙi”[iıiˆ[i˜[i¯i˘[iÁi˙[i:	i˚[i
+i¸[i˝[i¢i˛[iˇ[i i”[i[i[	i”iei i[i”iÛi[ii[ii”[i[i[i.i	[i
+[i[iiji[i[ii[iôiö[iÊiù
+[iè[ii”[ii”[i[	iiUiio[ii.iò[	iviwiBiH[i≥iv[i[i[i„i[iiz[i[i„iÍ[i[i„i[ii[ii[i [ii![iB[i#i$i"[ii#[i$[i%i≥[i&i”[imiS[i'i”[iH[i.i(i”[iÛi)[i*i”[	i+i,iVi-[i.[i/i”[i0iS[i1[i2iÂi”[i3[i4[i5i.i˜[iùi$[	i6iiif[i7[i8i”[iiÚiÛ[iiÚiÉ	[i9[i:[i;i<i”[i=i>[i?[i¢i)[	i@iLiiA[iB[iCi¸[iD[ii|	i”[	ibiEi]iF[i+iG[i+iH[i∫iI[i∫iJ[iK[
+i†ieiLi≥iM[iNi”[iOi”[iP[	iQi.iRi˜[
+iSiHiõiTiD[	iUi.iÿi˜[
+iViWiÍiXie[
+iYiXiÍiWie[i6iè[iZiBi9[i§i?
+[i§i>
+[iiı[
+ii[i∏i«i[i•[i:iSiT[i\i”[iÜ[ià[i][i¥[i^[
+i_iSi>i`i}[iaibic[idi”[iis	ie[	ifigihii[	ijikilim[in[ioipiÛ[iqir[is[iÄ
+it[	i∑iiih[iu[iiv[iw[ixiÍi9[iy[	iziVi i{[i≥i[i|[i}i~iù
+[ii[iœiÄi¥[iSiÅ[i¥i%	[i-iÇ[iÉiÑií
+iii9[
+iÉiÑii)iÖ[
+iÉiÑi.iÜiá[ià[iâ[
+iÉiÑiiäi˜[iÉiÑiùi>i[i>i∑i‚[i[i[i|i}[iL[iL[iL[i?[iL[iã[iñióiå[
+i˛iwigiyiå[iç[iöié[i|ièiê[i|iëiù
+[i|i$[i[	i|iíi©ix[i|iÁ[i|i[i|i?[i|iì[i6[i)[	iîiåiïi:[iñiói†[iòi¬i‘[iô[iòi¬iö[iõiåiú[i”ieiù[i iûiü[iñiói˛[i€[i„[ií[iÉi$[i†[i°[i¢[i£iØin[i§ii[i•[i¶[iß[i®[i©iÿi[	ii™iiˇ[	iái™iiˇ[iÓ[i˜ini´[i¨[i≠iÆi”[	iØiåi∞i”[iæi#i±[i≤[i≥[
+iii¥iNiµ[i∂[iµiLiv[i∑[i∏[i∏[i„[ii
+[iπ[i•[i∫[iª[iºi~[iΩi∞iG[
+i.i{i|iTi$[i˜[ii[iæi∆[iB[i∑iih[iæ[i[iiº[iiø[i{iá[iwigi[i¿iH	[iüiSiT[i¡iÁi¶[i6iè[ixiÿ[iÜiÃ[iFizi$[i¬[iü	i[i√ir[iLii∂[iƒi[iÁi≈[i∆iÕ[i«[ii»i.[i…[i [iÀ[i»[iÃ[iÕ[iŒ[iœiH[i–i—[i“i”i‘[i’i÷iò[i’i◊[ii[i9iÈ[iái[i	i	i[iºiá[iÿiåiŸ[iZi∑i[iNiLiç[i⁄i[i€[i‹i”[i:ic[i.iÁi°[iLiO[i¢iH[i›iåiﬁ[iﬂ[	i‡i·iSi[	i‚i„iÜiÃ[i/[i.i‰i9[iáiÂ[iÊi$[iÁ[i§i_iË[iÈ[i≠[iΩ
+iå[iÍiÎiª[iÏi$iì[i§i_iÌ[iÓ[iÔ[i[iiˇ[i€[iiˇ[iÒiÚ[iÜijiÎ[iÛiÙ[i‡i·[i¢
+i£
+[iı[iriˆ[ii±i[iiài†	[i¢i$iΩ[iæiﬁ[iiDi[iÅ[i˜iDi¯[i˘[i	iË[i†[i˙[iÍii[i˚[i¸i˝[i˛[iËiﬁ[içiˇ[i [i[io[iiiˇ[	iii	iiˇ[	ii§iiˇ[ii[	iiiiˇ[	i	i
+iiˇ[	iiiiˇ[	iiiiˇ[
+iiDiiiˇ[ii[	iidiiˇ[	iiiiˇ[	iiiiˇ[ii[	iiiiˇ[i√[i [i´[	iiiiˇ[i≥i∞iz[i[ii i![	i"i=i	i⁄[	ibiii9[i[	ibi#i$i[	iÏiÌiië[	iiziUiÔ[	ii=iLi%[i&i'i~[
+iiàiâi i9[i([iiài)i¥iﬁis[ii*i¯[iiiÿ[i´[i[i+i,i$[	ibi#i$i[i¨[iÔi=iÏ[i-[iú[i.[i/[i0[i1[i2[i3[i4[ini5[	i‰iÂiÊi6[i7i\i][i8[iÃi[i9iá[içiˇ[i-iLix[i<[iÚ[iÚ[i:[i;[i¶[i<iËiè[iI[i9[i=[i>[i?[i[i[iÔ[i§i•[	i@iÄiÕi∏[iÏ[iA[iB[iS[iC[iD[iEi¸iˇ[i>[i[iM[ipiF[i.iGi$[i^[iH[i¬[iIiJiv[iËiY[i[iÜ[iKiLi[iPiM[iN[iO[iP[i#iQ[i#iRiS[iT[iU[iV[iW[iX[iY[iåi6[iZi[im[in[i[i=iùi<ii[	iΩi\iái[i][i*i.i+[ibi^i∏[	ibi_i∏iv[i`i[ia[iÉibiÎ[ic[iœ[id[iÊ[i÷i6[iò[ie[if[igiwis	ihiËiY[iH[iiij[i∞[i[ik[iliA[ibim[ibin[io[ibip[ibip[ibiq[ibir[ibis[ibit[ibiu[ibiv[ibiw[ibix[iy[ibi,[ibiz[ibi{[ibi|[ibi}[ibi~[ibi[ibiÄ[ibiÅ[ibiÇ[iÉ[ibiÑ[iÖ[iÜ[iá[ià[iâ[iä[iã[iå[iç[iÙ[ié[iè[iê[ië[ií[iı[iì[iî[iï[iñ[ió[iò[iô[iö[iõ[iH[iú[iù[iû[iü[i†[i°[i¢[i£[iI[i§[i•[i¶[iß[i®[i©[i™[i´[i¨[i≠[iÆ[iØ[i∞[i±[i°[i≤[i≥[i‚[i[iﬁi
+[iﬁiG[i¥[iµ[i◊i∂[iÍi9[i,i÷i6[i∑i=i∏[ifibih[	i°iLi¢i£[iÕ[iπ[iÄ[i∫[i‹[iª[iº[iΩ[iæ[i[iø[i¿[i€[i{[i¡[i‹[i¬[i√[i:[iƒ[i[iø[i≈[iiˇ[i!	[iV[i∆[if[i«[i»iMi[i…[i [iÀ[iÃ[iÕ[iŒ[iœ[i–[i—[i9[i“[i”[i‘[i’[i÷[i◊[iÿ[iŸ[i⁄[i€[i‹[i˜[i›[ik[iﬁ[iﬂ[i
+[i‡[i·[i‚[i„[i∏[i‰[i∏[iÂ[iÊ[iÁ[i©[iË[iÈ[iS[i9ioiv[iJi[i9[iBii=[ixi1[iÍiÎi[	iÏiHiõi[iÌ[iÓi[iÔi.i°[iitiO[iÒii![ii…iv[iê[i!i$i[iÚiÛ[i5i6[i˙i˚[iÙiÑ[	iıiiÂi$[	iˆi˜iÂi$[i¯i$i˘[i˙iòi˚[i¸iò[i˝iLi[i˛iÚ[	iˇi iÍiò[i.i![i
+[i$i˛[ix[iÒiòi[ii[iiá[i·[i[i[
+iíi$i=ibi[
+i9iyi=ibi[i‰[i	[
+iii=ibi
+[i≠iãii=ibi[	iHiõiNi[i†i9[
+iii=ibi[iÇi[i.iAi[i[i[i[i[i[i[i.ii[i[ii([i∑i∏[iiÁ[	i”iÌiˇiÉ[iB
+i[i‘ii7[i[iiix[ii[	iiSiÍit[	ioiKitiO[iii_[	i{iiOi[iüii°[ii°i¢[
+i iiiif[i!i"[i#[i$i%[i&i_[	i'i(i6iv[	i)iiiG[i[i*ij[ibi∫[i.i˜[ij[i+iá[i,[ii5[iÄi∏[i-[i∂i.i$[ii˜[i.[i/[iÙ[iLi∏[iLi0[i1[i	[i9[iüi∞[ix[iuiG[i iÀi$[iÙi.[i¸iT[i¥i˛[ii2[i[iHi2[iiÁ[i¨[iSi[i3[iKiLi[ii4i5[ii‹i6[
+ii7i[iÕiò[i8[
+ii9i£iÕiò[	ii:iÕi$[ii;i<[
+ii[i∏i«i[	ii=iÛix[	ii>iﬁiˇ[
+ii9i£iÕiò[ii?iBi¨i$iNi.i+[
+ii@iLiuiO[iA[	ii=iÛix[iB[	iiCiΩiæ[iD[iE[i´i$[iE[i5[iiPiNiOiSi[iF[iGiÌ[i.i[i5[i⁄[iHië[i ix[iIiÙ[iJ[iK[i>[iL[i<[iEiMiN[i'iª[i5[iù[iOi}[i_i`[iP[iQ[iRiè	[iSiu[iT[iUixiV[iWiXiY[iZi!i[[iiij[i¸i\[iLi]i^[iÁii_[iGi$i`[i˜iHia[iüib[ic[iid[ii_ie[if[i›
+ig[iàih[iRi—[iÖii[iji$ik[itil[iNiiù	[im[i˙iin[ibi$io[i.ipiq[i.i˜i≠[i.i3ir[i.ixis[i.i–it[i.i9iu[i.iviw[i<i‘ix[iy[iLizi{[	i¢i$iΩi|[iLi}i~[iNi i[iÄiÅiÇ[iÉi¢iÑ[i.iiÖ[iiÜ[ibiá[i5ià[iâ[i–iä[i∂i~i∏i~iSiTiã[i9iå[iNi i~içiTié[iΩiæiè[	i'i~i§iê[ii«ir[iiië[iiií[i.i°iì[iî[iÜiÃiï[iBiñió[	iLi.i∏iò[iLi_iô[iÏi»
+iö[iõië[iº[iú[iù[i*iû[iA[i¨[
+i.ii∑ivi[i.i[i.i˜[i
+[i
+i.[ij[i3[i+iá[iÄiº[iü[iÄi†[i°[i-[i-[	i∂i∑i.i$[	i∂i∑i.i$[i¸[ii˜[iÙ[iZiDi[i∑iYi[i¢[i_i£[i˙i)[i∫iá[iBi3[i§[i•[i†[iÛ[ii9[i¶:mentions[ :keywords[»I"	Dual;TI"Filter;TI"VCA;TI"VCO;TI"VCF;TI"
+Model;TI"Generator;TI"
+Mixer;TI"LFO;TI"	Quad;TI"
+Panel;TI"Sequencer;TI"	MOTM;TI"	MFOS;TI"Expander;TI"
+Blank;TI"DIY;TI"
+Noise;TI"	ADSR;TI"Oscillator;TI"
+Clock;TI"	Gate;TI"Triple;TI"Voltage;TI"Module;TI"Switch;TI"Envelope;TI"	Ring;TI"	MIDI;TI"
+Delay;TI"	Wave;TI"Interface;TI"Modulator;TI"
+Audio;TI"Analog;TI"Matrix;TI"Divider;TI"Machine;TI"Polivoks;TI"	Drum;TI"Quantizer;TI"Processor;TI"
+Super;TI"	Mini;TI"	Mult;TI"
+Synth;TI"Digital;TI"
+Power;TI"Thomas;TI"LPG;TI"Controlled;TI"Multiple;TI"Double;TI"
+Multi;TI"
+Chaos;TI"Frequency;TI"Stereo;TI"Multiplier;TI"Modular;TI"
+Serge;TI"CGS;TI"Trigger;TI"	Tube;TI"Controller;TI"System;TI"
+Blind;TI"Resonant;TI"Shifter;TI"Eurorack;TI"	DUAL;TI"Source;TI"
+Voice;TI"Random;TI"NeinOhNein;TI"Steiner;TI"Barton;TI"Reverb;TI"Multimode;TI"	Xanu;TI"	Hold;TI"
+Logic;TI"Turing;TI"
+White;TI"Joystick;TI"Cirklon;TI"Mod;TI"Breakout;TI"
+Slope;TI"Sample;TI"Function;TI"Simple;TI"
+Diode;TI"Passive;TI"Catgirl;TI"Modulation;TI"Custom;TI"
+Clone;TI"Expansion;TI"RCD;TI"Duo;TI"Morphing;TI"Spring;TI"Phaser;TI"Attenuator;TI"Control;TI"Comparator;TI"Sequential;TI"
+Octal;TI"Animator;TI"Elements;TI"
+Input;TI"	Moog;TI"	Slew;TI"
+Henry;TI"DixieII;TI"Vactrol;TI"Mattson;TI"Mutant;TI"Pingable;TI"Follower;TI"
+Sound;TI"Arpeggiator;TI"Asteroid;TI"
+Micro;TI"	MKII;TI"Synthrotek;TI"Looping;TI"	DRUM;TI"	Star;TI"Converter;TI"	Euro;TI"Psycho;TI"Output;TI"Haible;TI"DIV;TI"Buffered;TI"
+Pulse;TI"Console;TI"
+Patch;TI"	Core;TI"GFX;TI"Lowpass;TI"Vintage;TI"Terrarium;TI"
+Maths;TI"SVF;TI"Bearer;TI"Mix;TI"
+Bytes;TI"Filters;TI"
+Phase;TI"Resonator;TI"Edition;TI"	Slim;TI"HexInverter;TI"SCM;TI"Kit;TI"FSR;TI"Complex;TI"MMF;TI"Synthacon;TI"Waveform;TI"	Trig;TI"VCC;TI"Plague;TI"	QUAD;TI"Signal;TI"Lag;TI"	E350;TI"Oakley;TI"
+Event;TI"Multiples;TI"Pro;TI"Amplifier;TI"
+Ultra;TI"Ladder;TI"ARP;TI"1HP;TI"	Klee;TI"Yusynth;TI"Classic;TI"FILLER;TI"
+panel;TI"
+Fritz;TI"	Sync;TI"Binary;TI"Microcompressor;TI"6HP;TI"OSC;TI"
+VCLFO;TI"SEQ;TI"Series;TI"VCS;TI"Synthesizer;TI"
+Cloud;TI"
+MIXER;TI"Low;TI"Chorus;TI"Compressor;TI"	Blue;T
