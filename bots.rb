@@ -46,12 +46,12 @@ class MyBot < Ebooks::Bot
 
   def on_follow(user)
     # Follow a user back
-    # follow(user.screen_name)
+     follow(user.screen_name)
   end
 
   def on_mention(tweet)
     # Reply to a mention
-    # reply(tweet, "oh hullo")
+     #reply(tweet, "oh hullo")
   end
 
   def on_timeline(tweet)
