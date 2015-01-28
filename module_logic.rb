@@ -34,13 +34,18 @@ class ModuleLogic
   end
 
   def generateTitleCorpus
-    items.collect do |x|
-      x[0]
+    @items.collect do |x|
+      item = x[0]
+      item.gsub!(/ Model /i, ' ')
+      item.gsub!(/.* panel/i, '')
+      item.gsub!(/ ?blank ?/i, '')
+      item.gsub!(/ \d\d*(U|hp)/i, '') # 3U / 12hp
+      item
     end
   end
 
   def generateManufCorpus
-    dict = IO.readlines("/usr/share/dict/words").collect {|x| x.downcase.strip }
+    dict = IO.readlines("/usr/share/dict/words").collect {|x| x.downcase.strip } - %w( serge tiptop )
     join_dict = [ "&", "+", "or", "|", "and", "-", "/" ]
     parts = []
     counts = []
@@ -48,6 +53,7 @@ class ModuleLogic
     proper_words = []
     join_words = []
     dict_words = []
+
 
     items = @items.collect do |x|
       item = x[1]
@@ -97,7 +103,7 @@ class ModuleLogic
     @proper = generateProperCorpus if not @proper
     begin
       manuf = generateManufReal
-    end while manuf == '' and  @manuf_real.include? manuf
+    end while manuf == '' and @manuf_real.include? manuf
     return manuf
   end
 
@@ -154,6 +160,11 @@ class ModuleLogic
       idx=(idx+1)%2
       count+= 1
     end while str.length < length and count < 6
+
+    if str.downcase == str # no caps
+      str = str.capitalize
+    end
+
     return str
   end
 
@@ -161,17 +172,23 @@ class ModuleLogic
     title = generateTitle
     manuf = generateManuf
     hp = Random.new.rand(2..40)&~0x1
+    site = %w(Muffs eBay Craigslist MuffWiggler ModularGrid).sample
+    verb_ing = %w(releasing delaying revising revisiting updating cloning).sample
+    verb_ed = %w(released delayed revised updated).sample
+    sentiment = %w(awesome aweful boring ok cool lame whack fun neat).sample
+    noun = %w(demo video opinion clone).sample
 
     strings = [
-      "I heard a rumor that #{manuf} is delaying the #{title}",
-      "Just announced #{manuf} #{title}",
-      "Does anyone have a demo of the #{title} by #{manuf}",
-      "Looking forward to seeing the #{manuf} #{title} at NAMM!",
-      "I'm selling my #{manuf} #{title} on Muffs, hit me up",
-      "Saw a #{manuf} #{title} for sale on craigslist, anyone ever have one?",
+      "I heard a rumor that #{manuf} is #{verb_ing} the #{title}",
+      "#{manuf} just #{verb_ed} #{title}",
+      "Does anyone have a #{noun} of the #{title} by #{manuf}",
+      "I saw the #{manuf} #{title} at NAMM! Looks #{sentiment}",
+      "The #{manuf} #{title} is so #{sentiment}",
+      "I'm selling my #{manuf} #{title} on #{site}, hit me up",
+      "Saw a #{manuf} #{title} for sale on #{site}, anyone ever have one?",
       "I love my #{manuf} #{title}",
       "I'm having problems with my #{manuf} #{title}",
-      "I can't find the #{manuf} #{title} on ModularGrid",
+      "I can't find the #{manuf} #{title} on #{site}",
       "What is a #{manuf} #{title} worth?",
       "The #{manuf} #{title} is only #{hp}hp!",
       "Has anyone played with the #{manuf} #{title}?",

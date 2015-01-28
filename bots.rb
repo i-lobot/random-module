@@ -25,6 +25,7 @@ class MyBot < Ebooks::Bot
 
   def on_startup
     @logic = ModuleLogic.new
+    @top100 = @logic.model.keywords.take(100)
     generate()
     scheduler.every '1h' do
       # Tweet something every 24 hours
@@ -57,6 +58,11 @@ class MyBot < Ebooks::Bot
   def on_timeline(tweet)
     # Reply to a tweet in the bot's timeline
     # reply(tweet, "nice tweet")
+    tokens = Ebooks::NLP.tokenize(tweet.text)
+
+    if tokens.find { |t| @top100.include?(t.downcase) }
+      favorite(tweet) if rand < 0.5
+    end
   end
 end
 
