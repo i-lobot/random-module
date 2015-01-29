@@ -24,7 +24,8 @@ class ModuleLogic
     end
     #@items = @items.first 20
     @manuf_real = @items.collect { |x| x[1] }.uniq
-    @model = Ebooks::Model.load("model/title.model")
+    path ="model/title.model"
+    @model = Ebooks::Model.load path if File.exist? path 
     return 
   end
 
@@ -175,7 +176,7 @@ class ModuleLogic
     site = %w(Muffs eBay Craigslist MuffWiggler ModularGrid).sample
     verb_ing = %w(releasing delaying revising revisiting updating cloning).sample
     verb_ed = %w(released delayed revised updated).sample
-    sentiment = %w(awesome aweful boring ok cool lame whack fun neat).sample
+    sentiment = %w(awesome awful boring ok cool lame whack fun neat).sample
     noun = %w(demo video opinion clone).sample
 
     strings = [
