@@ -46,8 +46,8 @@ class ModuleLogic
   end
 
   def generateManufCorpus
-    dict = IO.readlines("/usr/share/dict/words").collect {|x| x.downcase.strip } - %w( serge tiptop )
-    join_dict = [ "&", "+", "or", "|", "and", "-", "/" ]
+    dict = IO.readlines("/usr/share/dict/words").collect {|x| x.downcase.strip } - %w( serge tiptop bridechamber )
+    join_dict = %w( & + or | and - / )
     parts = []
     counts = []
     punc_words = []
