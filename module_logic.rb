@@ -46,7 +46,7 @@ class ModuleLogic
   end
 
   def generateManufCorpus
-    dict = IO.readlines("/usr/share/dict/words").collect {|x| x.downcase.strip } - %w( serge tiptop bridechamber )
+    dict = IO.readlines("/usr/share/dict/words").collect {|x| x.downcase.strip } - %w( serge tiptop bridechamber toppobrillo )
     join_dict = %w( & + or | and - / )
     parts = []
     counts = []
@@ -184,6 +184,7 @@ class ModuleLogic
       "#{manuf} just #{verb_ed} #{title}",
       "Does anyone have a #{noun} of the #{title} by #{manuf}",
       "I saw the #{manuf} #{title} at NAMM! Looks #{sentiment}",
+      "I saw the #{manuf} #{title} at Musikmesse! Looks #{sentiment}",
       "The #{manuf} #{title} is so #{sentiment}",
       "I'm selling my #{manuf} #{title} on #{site}, hit me up",
       "Saw a #{manuf} #{title} for sale on #{site}, anyone ever have one?",

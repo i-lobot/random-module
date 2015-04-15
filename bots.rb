@@ -20,19 +20,21 @@ class MyBot < Ebooks::Bot
     self.blacklist = ['tnietzschequote']
 
     # Range in seconds to randomize delay when bot.delay is called
-    self.delay_range = 1..6
+    self.delay_range = 1..126
   end
 
   def on_startup
     @logic = ModuleLogic.new
     @top100 = @logic.model.keywords.take(100).collect { |x| x.downcase }
-    generate()
-    scheduler.every '1h' do
+    #generate()
+    scheduler.every '4h' do
       # Tweet something every 24 hours
       # See https://github.com/jmettraux/rufus-scheduler
       # tweet("hi")
       # pictweet("hi", "cuteselfie.jpg")
-      generate()
+      delay do
+        generate()
+      end
     end
   end
 
