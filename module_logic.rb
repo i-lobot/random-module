@@ -184,7 +184,7 @@ class ModuleLogic
       "banana jacks", "firmware updates", "updated firmware", "bugs", "source code available",
       "Rogan knobs" "touchplates", "an expansion header", "midi", "a DIN connector", "USB"].sample
     specific_feature_noun = ["vactrols", "attenuverters", "attenuators",
-      "banana jacks", "Rogan knobs" "touchplates", "midi"].sample
+      "banana jacks", "Rogan knobs" "touchplates" ].sample
     property = ["open source", "already released", "available yet", "unreleased", "available",
       "discontinued", 'out of production', 'in production', "RoHS compliant"].sample
     convention = [
@@ -224,10 +224,10 @@ class ModuleLogic
 
 
     strings = [
-      "I heard that #{specific_feature_noun} is the key to #{manuf} #{title}",
-      "I heard that #{specific_feature_noun} is the secret to #{manuf} #{title}",
-      "#{specific_feature_noun} is the secret to #{manuf} #{title}",
-      "#{specific_feature_noun} is the key to #{manuf} #{title}",
+      "I heard that #{specific_feature_noun} are the key to #{manuf} #{title}",
+      "I heard that #{specific_feature_noun} are the secret to #{manuf} #{title}",
+      "#{specific_feature_noun.capitalize} are the secret to #{manuf} #{title}",
+      "#{specific_feature_noun.capitalize} are the key to #{manuf} #{title}",
       "The #{manuf} #{title} is #{["not",""].sample} #{sentiment_mod} #{sentiment} if you want to sound like #{musician}",
       "If you want to sound like #{musician}, try using a #{title}",
       "If you want to sound like #{musician}, try using a #{manuf} #{title}",

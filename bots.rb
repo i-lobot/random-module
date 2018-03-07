@@ -27,7 +27,7 @@ class MyBot < Ebooks::Bot
     @logic = ModuleLogic.new
     @top100 = @logic.model.keywords.take(100).collect { |x| x.downcase }
     #generate()
-    scheduler.every '4h' do
+    scheduler.every '30m' do
       # Tweet something every 24 hours
       # See https://github.com/jmettraux/rufus-scheduler
       # tweet("hi")
