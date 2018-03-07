@@ -1,5 +1,5 @@
 require 'open-uri'
-require 'Nokogiri'
+require 'nokogiri'
 require 'twitter_ebooks'
 
 class ModuleLogic
@@ -30,7 +30,7 @@ class ModuleLogic
   end
 
 
-  def generateTitle(count=140)
+  def generateTitle(count=280)
     @model.make_statement(count)
   end
 
@@ -173,26 +173,97 @@ class ModuleLogic
     title = generateTitle
     manuf = generateManuf
     hp = Random.new.rand(2..40)&~0x1
-    site = %w(Muffs eBay Craigslist MuffWiggler ModularGrid).sample
-    verb_ing = %w(releasing delaying revising revisiting updating cloning).sample
-    verb_ed = %w(released delayed revised updated).sample
+    site = %w(Muffs Lines eBay Craigslist MuffWiggler ModularGrid).sample
+    verb_ing = %w(releasing delaying revising revisiting updating cloning discontinuing).sample
+    verb_ed = %w(released delayed revised updated canceled).sample
     sentiment = %w(awesome awful boring ok cool lame whack fun neat).sample
+    sentiment_mod = ['sort of', 'kinda', 'very', 'not very', 'extremely', 'possibly', '', 'not', '', '', '', ''].sample
     noun = %w(demo video opinion clone).sample
+    panel_type = %w(Grayscale black 5U 4U DIY).sample
+    feature_noun = ["vactrols", "attenuverters", "attenuators",
+      "banana jacks", "firmware updates", "updated firmware", "bugs", "source code available",
+      "Rogan knobs" "touchplates", "an expansion header", "midi", "a DIN connector", "USB"].sample
+    specific_feature_noun = ["vactrols", "attenuverters", "attenuators",
+      "banana jacks", "Rogan knobs" "touchplates", "midi"].sample
+    property = ["open source", "already released", "available yet", "unreleased", "available",
+      "discontinued", 'out of production', 'in production', "RoHS compliant"].sample
+    convention = [
+      "Summer NAMM",
+      "NAMM",
+      "Musikmesse",
+      "Knobcon",
+      "Machines in Music",
+    ].sample
+    problem_type = ["update", "power", "repair", "", "noise", "comprehension", "distortion" ].sample
+    musician = [
+      "Kaitlyn Aurelia Smith",
+      "Alessandro Cortini",
+      "Don Buchla",
+      "Richard Devine",
+      "Robert Moog",
+      "Bob Moog",
+      "Tonto's Expanding Head Band",
+      "Baseck",
+      "Dave Smith",
+      "Kraftwerk",
+      "Vince Clarke",
+      "Aphex Twin",
+      "Autechre",
+      "Surgeon",
+      "Boards of Canada",
+      'Oval',
+      "Plaid",
+      "Vatican Shadow",
+      "Prurient",
+      "Jim O'Rourke",
+      "Stereolab",
+      "Richard D. James",
+      "Grant Richter",
+      "Wendy Carlos",
+    ].sample
+
 
     strings = [
+      "I heard that #{specific_feature_noun} is the key to #{manuf} #{title}",
+      "I heard that #{specific_feature_noun} is the secret to #{manuf} #{title}",
+      "#{specific_feature_noun} is the secret to #{manuf} #{title}",
+      "#{specific_feature_noun} is the key to #{manuf} #{title}",
+      "The #{manuf} #{title} is #{["not",""].sample} #{sentiment_mod} #{sentiment} if you want to sound like #{musician}",
+      "If you want to sound like #{musician}, try using a #{title}",
+      "If you want to sound like #{musician}, try using a #{manuf} #{title}",
+      "If you want to sound like #{musician}, use a #{title}",
+      "If you want to sound like #{musician}, use a #{manuf} #{title}",
+      "Did #{musician} use a #{title}?",
+      "Did #{musician} use a #{manuf} #{title}?",
+      "Did #{musician} ever use a #{title}?",
+      "Did #{musician} ever use a #{manuf} #{title}?",
+      "Is anyone having #{problem_type} problems with their #{manuf} #{title}?",
+      "Having #{problem_type} problems with my #{manuf} #{title}",
+      "Having #{problem_type} issues with my #{manuf} #{title}",
+      "Does #{specific_feature_noun} fix #{problem_type} issues with the #{manuf} #{title}?",
+      "Does #{specific_feature_noun} fix #{problem_type} issues with the #{title}?",
+      "Would #{specific_feature_noun} solve #{problem_type} problems with the #{manuf} #{title}?",
+      "Would #{specific_feature_noun} solve #{problem_type} problems with the #{title}?",
+      "I wish #{manuf} had included #{specific_feature_noun} on the #{title}",
+      "#{manuf} will #{["not",""].sample} include #{specific_feature_noun} on their #{title}",
+      "I need a #{panel_type} panel for my #{manuf} #{title}",
+      "Does anyone have a #{panel_type} panel for a #{manuf} #{title}?",
+      "Just installed #{panel_type} panel for a #{manuf} #{title}?",
+      "Does #{manuf} #{title} have #{feature_noun}?",
+      "#{manuf} #{title} has #{feature_noun}; #{sentiment_mod} #{sentiment}",
+      "Is #{manuf} #{title} #{property}?",
+      "Anyone know if #{manuf} #{title} is #{property}?",
+      "Does anyone know if #{manuf} #{title} is #{property}?",
       "I heard a rumor that #{manuf} is #{verb_ing} the #{title}",
       "#{manuf} just #{verb_ed} #{title}",
       "Does anyone have a #{noun} of the #{title} by #{manuf}",
-      "I saw the #{manuf} #{title} at Summer NAMM! Looks #{sentiment}",
-      "I saw the #{manuf} #{title} at NAMM! Looks #{sentiment}",
-      "I saw the #{manuf} #{title} at Musikmesse! Looks #{sentiment}",
-      "I saw the #{manuf} #{title} at Knobcon! Looks #{sentiment}",
-      "Will #{manuf} #{title} be at Machines in Music? Seems #{sentiment}",
-      "The #{manuf} #{title} is so #{sentiment}",
+      "I saw the #{manuf} #{title} at #{convention}! Looks #{sentiment_mod} #{sentiment}",
+      "Can't wait to see the #{manuf} #{title} at #{convention}.",
+      "The #{manuf} #{title} is #{sentiment}",
       "I'm selling my #{manuf} #{title} on #{site}, hit me up",
       "Saw a #{manuf} #{title} for sale on #{site}, anyone ever have one?",
       "I love my #{manuf} #{title}",
-      "I'm having problems with my #{manuf} #{title}",
+      "I'm having #{problem_type} problems with my #{manuf} #{title}",
       "I can't find the #{manuf} #{title} on #{site}",
       "What is a #{manuf} #{title} worth?",
       "The #{manuf} #{title} is only #{hp}hp!",
@@ -200,8 +271,8 @@ class ModuleLogic
     ]
 
     text = ""
-    tags = [ "#modular", "#synth", "#eurorack", "#noiselife" ]
-    until text != "" and text.length <= 140
+    tags = [ "#modular", "#synth", "#eurorack", "#noiselife", "🎛", '🎚', '👾', '👽' ]
+    until text != "" and text.length <= 280
       text = strings.sample + " " + tags.sample
     end
 
