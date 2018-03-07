@@ -182,7 +182,7 @@ class ModuleLogic
     panel_type = %w(Grayscale black 5U 4U DIY).sample
     feature_noun = ["vactrols", "attenuverters", "attenuators",
       "banana jacks", "firmware updates", "updated firmware", "bugs", "source code available",
-      "Rogan knobs" "touchplates", "an expansion header", "midi", "a DIN connector", "USB"].sample
+      "Rogan knobs", "touchplates", "an expansion header", "midi", "a DIN connector", "USB"].sample
     specific_feature_noun = ["vactrols", "attenuverters", "attenuators",
       "banana jacks", "Rogan knobs" "touchplates" ].sample
     property = ["open source", "already released", "available yet", "unreleased", "available",
